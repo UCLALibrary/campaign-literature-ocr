@@ -1,0 +1,15 @@
+version: '3.4'
+services:
+  camplit:
+    build: .
+    volumes:
+      - .:/home/camplit/campaign_lit
+    env_file:
+      - .camplit.env
+      # Local values not for the repo
+      - .camplit_secrets.env
+    # Override the image's entrypoint, which otherwise runs the Dockerfile's entrypoint/cmd and exits.
+    # Setting "tty: true" allows the bash session to remain alive, keeping the
+    # container running; without it, bash immediately exits and the container stops.
+    tty: true
+    entrypoint: bash
