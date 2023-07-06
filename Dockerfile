@@ -17,8 +17,11 @@ RUN ln -sf /usr/share/zoneinfo/America/Los_Angeles /etc/localtime
 RUN useradd -c "Campaign Lit app user" -d /home/camplit -s /bin/bash -m camplit
 USER camplit
 
-# Copy application files to image, and ensure camplit user owns everything
-COPY --chown=camplit:camplit . .
+# Switch to application directory
+WORKDIR /home/camplit
+
+# Copy relevant application files to image, and ensure camplit user owns everything
+COPY --chown=camplit:camplit requirements.txt .
 
 # Include local python bin into user's path, mostly for pip
 ENV PATH /home/camplit/.local/bin:${PATH}

@@ -30,23 +30,23 @@ See `requirements.txt` for specific versions used, and links to documentation fo
 
 2. Change directory into the project.
 
-   ```$ cd oral-history-staff-ui```
+   ```$ cd campaign-literature-ocr```
 
 3. Build using docker-compose.
 
    ```$ docker-compose build```
 
-4. Bring the system up, with containers running in the background.
+4. Get a copy of `.camplit_secrets.env` from a colleage and place it in the current directory.
+
+5. Bring the system up, with containers running in the background.
 
    ```$ docker-compose up -d```
 
-5. Logs can be viewed, if needed (`-f` to tail logs).
+6. Logs can be viewed, if needed (`-f` to tail logs).
 
-   ```
-   $ docker-compose logs -f camplit
-   ```
+   ```$ docker-compose logs -f camplit```
 
-6. Run commands in the containers, if needed.
+7. Run commands in the containers, if needed.
 
    ```
    # Run python shell
@@ -61,6 +61,6 @@ See `requirements.txt` for specific versions used, and links to documentation fo
    # Run a privileged bash shell as root, in case it's needed
    $ docker-compose exec -u root camplit bash
 
-7. Shut down the system when done.
+8. Shut down the system when done.
 
    ```$ docker-compose down```
