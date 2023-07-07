@@ -1,8 +1,10 @@
 #!/usr/bin/python3
 
 import argparse
+import csv
 from glob import glob
-from os.path import isdir, isfile
+from os.path import isdir, basename
+from itertools import groupby
 import spacy
 
 
@@ -42,11 +44,34 @@ def dir_path(path: str) -> str:
 def parse_ner(files: list):
     nlp = spacy.load("en_core_web_sm")
 
+    entity_maps = {}
+
     for file in files:
         with open(file) as f:
+            file_root = basename(file).rpartition("-")[0]
             doc = nlp(f.read())
-            for ent in doc.ents:
-                print(ent.text, ent.label_)
+
+            entities = {
+                key: list(set(map(lambda x: str(x), g)))
+                for key, g in groupby(
+                    sorted(doc.ents, key=lambda x: x.label_), lambda x: x.label_
+                )
+            }
+
+            entity_maps.setdefault(file_root, {})
+            entity_maps[file_root] = entity_maps[file_root] | entities
+
+            write_results(entity_maps)
+
+
+def write_results(entity_maps: dict):
+    for file_root in entity_maps.keys():
+        with open(f"./{file_root}.csv", "w") as ner_file:
+            ner_dict = entity_maps[file_root]
+            headers = ner_dict.keys()
+            csvwriter = csv.DictWriter(ner_file, fieldnames=headers, delimiter="\t")
+            csvwriter.writeheader()
+            csvwriter.writerow(ner_dict)
 
 
 if __name__ == "__main__":
