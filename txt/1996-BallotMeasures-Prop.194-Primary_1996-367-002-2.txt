@@ -1,0 +1,29 @@
+Research Design
+
+The evaluation rests on two related studies. reported respectively in
+Part I and Part II of this document. The first, funded by the U. S. Department
+of Labor (Employment and Training Administration), relies on 4 sample of over
+1000 ex-offenders. The experimental group is defined as individuals who
+a) apdited for the benefits upon release from prison, b) had acquired the
+requisite earnings in prison, and ¢) received the benefits to which they were
+entitled. The control group is defined as individuals who a) applied for the
+benefits, b).did not acquire the requisite earnings in prison and c) did not
+receive any benefits. Since receipt of benefits was determined by prison
+earnings, ve are able to apply a regress ion-discontinuity ‘design that, in
+principle, yields unbiased estimates of any treatment effects. In other words,
+in a manner comparable to true experiments where subjects are assigned at
+random to experimental and control groups, causal effects can be confidently
+estimated with confounding influences eliminated (within the bounds of chance).
+As the outcome for this analysis, we focus on offenses committed during the
+first 12 months of parole that, for all practical purposes, lead to a new.”
+incarceration.
+
+The second study was funded by the California Department of Corrections.
+In contrast to the first effort, the sample of offenders is very small: only
+50 parolees are included. However, each of these 50 subjects were followed
+cn a day-to-day basis for four months. Thus, breadth of coverage is traded .
+for depth, and we are able to analyze 120 daily data points for each of the
+5C. The basic question, therefore, is one of longitudinal mechanisms 5 iat
+are the over time processes which tend to encourage or inhibit law abiding
+
+behavior? Among the most important potential causal factors are employment,
