@@ -1,0 +1,5 @@
+# Box files are not very useful, so include just a sample of the generated ones.
+# Ignore all
+*.box
+# Except for these
+!*Dole*

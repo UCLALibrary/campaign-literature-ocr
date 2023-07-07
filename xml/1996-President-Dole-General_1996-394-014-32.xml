@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_sf_4d3p1_input.PPM</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.1</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1684" HEIGHT="2183" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1684" HEIGHT="2183">
+				<ComposedBlock ID="cblock_0" HPOS="684" VPOS="84" WIDTH="434" HEIGHT="92">
+					<TextBlock ID="block_0" HPOS="684" VPOS="84" WIDTH="434" HEIGHT="92">
+						<TextLine ID="line_0" HPOS="684" VPOS="84" WIDTH="434" HEIGHT="92">
+							<String ID="string_0" HPOS="684" VPOS="84" WIDTH="197" HEIGHT="90" WC="0.96" CONTENT="DOLE"/><SP WIDTH="29" VPOS="84" HPOS="881"/>
+							<String ID="string_1" HPOS="910" VPOS="101" WIDTH="208" HEIGHT="75" WC="0.95" CONTENT="KEMP"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="749" VPOS="236" WIDTH="299" HEIGHT="39">
+					<TextBlock ID="block_1" HPOS="749" VPOS="236" WIDTH="299" HEIGHT="39">
+						<TextLine ID="line_1" HPOS="749" VPOS="236" WIDTH="299" HEIGHT="39">
+							<String ID="string_2" HPOS="749" VPOS="236" WIDTH="137" HEIGHT="36" WC="0.96" CONTENT="JACK"/><SP WIDTH="15" VPOS="236" HPOS="886"/>
+							<String ID="string_3" HPOS="901" VPOS="237" WIDTH="147" HEIGHT="38" WC="0.96" CONTENT="KEMP"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="757" VPOS="185" WIDTH="281" HEIGHT="8"></GraphicalElement >
+				<ComposedBlock ID="cblock_3" HPOS="238" VPOS="332" WIDTH="1300" HEIGHT="203">
+					<TextBlock ID="block_2" HPOS="238" VPOS="332" WIDTH="1300" HEIGHT="203">
+						<TextLine ID="line_2" HPOS="340" VPOS="332" WIDTH="1180" HEIGHT="46">
+							<String ID="string_4" HPOS="340" VPOS="332" WIDTH="57" HEIGHT="26" WC="0.96" CONTENT="Jack"/><SP WIDTH="12" VPOS="332" HPOS="397"/>
+							<String ID="string_5" HPOS="409" VPOS="332" WIDTH="78" HEIGHT="34" WC="0.95" CONTENT="Kemp"/><SP WIDTH="11" VPOS="332" HPOS="487"/>
+							<String ID="string_6" HPOS="498" VPOS="335" WIDTH="121" HEIGHT="32" WC="0.96" CONTENT="currently"/><SP WIDTH="12" VPOS="335" HPOS="619"/>
+							<String ID="string_7" HPOS="631" VPOS="334" WIDTH="20" HEIGHT="26" WC="0.96" CONTENT="is"/><SP WIDTH="11" VPOS="334" HPOS="651"/>
+							<String ID="string_8" HPOS="662" VPOS="335" WIDTH="147" HEIGHT="27" WC="0.96" CONTENT="co-director"/><SP WIDTH="9" VPOS="335" HPOS="809"/>
+							<String ID="string_9" HPOS="818" VPOS="336" WIDTH="30" HEIGHT="26" WC="0.96" CONTENT="of"/><SP WIDTH="7" VPOS="336" HPOS="848"/>
+							<String ID="string_10" HPOS="855" VPOS="337" WIDTH="128" HEIGHT="33" WC="0.96" CONTENT="Empower"/><SP WIDTH="10" VPOS="337" HPOS="983"/>
+							<String ID="string_11" HPOS="993" VPOS="339" WIDTH="119" HEIGHT="30" WC="0.96" CONTENT="America,"/><SP WIDTH="11" VPOS="339" HPOS="1112"/>
+							<String ID="string_12" HPOS="1123" VPOS="347" WIDTH="14" HEIGHT="18" WC="0.96" CONTENT="a"/><SP WIDTH="9" VPOS="347" HPOS="1137"/>
+							<String ID="string_13" HPOS="1146" VPOS="341" WIDTH="83" HEIGHT="32" WC="0.96" CONTENT="public"/><SP WIDTH="10" VPOS="341" HPOS="1229"/>
+							<String ID="string_14" HPOS="1239" VPOS="342" WIDTH="84" HEIGHT="33" WC="0.96" CONTENT="policy"/><SP WIDTH="10" VPOS="342" HPOS="1323"/>
+							<String ID="string_15" HPOS="1333" VPOS="344" WIDTH="48" HEIGHT="25" WC="0.96" CONTENT="and"/><SP WIDTH="10" VPOS="344" HPOS="1381"/>
+							<String ID="string_16" HPOS="1391" VPOS="344" WIDTH="129" HEIGHT="34" WC="0.96" CONTENT="advocacy"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="239" VPOS="375" WIDTH="1260" HEIGHT="50">
+							<String ID="string_17" HPOS="239" VPOS="375" WIDTH="165" HEIGHT="32" WC="0.96" CONTENT="organization"/><SP WIDTH="11" VPOS="375" HPOS="404"/>
+							<String ID="string_18" HPOS="415" VPOS="375" WIDTH="33" HEIGHT="38" WC="0.96" CONTENT="he"/><SP WIDTH="6" VPOS="375" HPOS="448"/>
+							<String ID="string_19" HPOS="454" VPOS="375" WIDTH="153" HEIGHT="26" WC="0.96" CONTENT="co-founded"/><SP WIDTH="12" VPOS="375" HPOS="607"/>
+							<String ID="string_20" HPOS="619" VPOS="376" WIDTH="24" HEIGHT="26" WC="0.96" CONTENT="in"/><SP WIDTH="15" VPOS="376" HPOS="643"/>
+							<String ID="string_21" HPOS="658" VPOS="377" WIDTH="60" HEIGHT="26" WC="0.96" CONTENT="1993"/><SP WIDTH="13" VPOS="377" HPOS="718"/>
+							<String ID="string_22" HPOS="731" VPOS="377" WIDTH="58" HEIGHT="26" WC="0.96" CONTENT="with"/><SP WIDTH="10" VPOS="377" HPOS="789"/>
+							<String ID="string_23" HPOS="799" VPOS="378" WIDTH="108" HEIGHT="26" WC="0.96" CONTENT="William"/><SP WIDTH="10" VPOS="378" HPOS="907"/>
+							<String ID="string_24" HPOS="917" VPOS="379" WIDTH="93" HEIGHT="26" WC="0.96" CONTENT="Bennet"/><SP WIDTH="9" VPOS="379" HPOS="1010"/>
+							<String ID="string_25" HPOS="1019" VPOS="381" WIDTH="46" HEIGHT="25" WC="0.96" CONTENT="and"/><SP WIDTH="10" VPOS="381" HPOS="1065"/>
+							<String ID="string_26" HPOS="1075" VPOS="381" WIDTH="168" HEIGHT="28" WC="0.96" CONTENT="Ambassador"/><SP WIDTH="8" VPOS="381" HPOS="1243"/>
+							<String ID="string_27" HPOS="1251" VPOS="384" WIDTH="74" HEIGHT="26" WC="0.96" CONTENT="Jeane"/><SP WIDTH="7" VPOS="384" HPOS="1325"/>
+							<String ID="string_28" HPOS="1332" VPOS="381" WIDTH="167" HEIGHT="44" WC="0.96" CONTENT="Kirkpatrick."/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="240" VPOS="416" WIDTH="1298" HEIGHT="40">
+							<String ID="string_29" HPOS="240" VPOS="417" WIDTH="127" HEIGHT="32" WC="0.96" CONTENT="Empower"/><SP WIDTH="11" VPOS="417" HPOS="367"/>
+							<String ID="string_30" HPOS="378" VPOS="416" WIDTH="113" HEIGHT="26" WC="0.93" CONTENT="America"/><SP WIDTH="11" VPOS="416" HPOS="491"/>
+							<String ID="string_31" HPOS="502" VPOS="418" WIDTH="20" HEIGHT="24" WC="0.96" CONTENT="is"/><SP WIDTH="10" VPOS="418" HPOS="522"/>
+							<String ID="string_32" HPOS="532" VPOS="418" WIDTH="130" HEIGHT="25" WC="0.96" CONTENT="dedicated"/><SP WIDTH="10" VPOS="418" HPOS="662"/>
+							<String ID="string_33" HPOS="672" VPOS="423" WIDTH="24" HEIGHT="20" WC="0.96" CONTENT="to"/><SP WIDTH="11" VPOS="423" HPOS="696"/>
+							<String ID="string_34" HPOS="707" VPOS="418" WIDTH="66" HEIGHT="26" WC="0.95" CONTENT="three"/><SP WIDTH="11" VPOS="418" HPOS="773"/>
+							<String ID="string_35" HPOS="784" VPOS="418" WIDTH="117" HEIGHT="34" WC="0.95" CONTENT="founding"/><SP WIDTH="10" VPOS="418" HPOS="901"/>
+							<String ID="string_36" HPOS="911" VPOS="420" WIDTH="137" HEIGHT="33" WC="0.96" CONTENT="principles:"/><SP WIDTH="11" VPOS="420" HPOS="1048"/>
+							<String ID="string_37" HPOS="1059" VPOS="423" WIDTH="139" HEIGHT="33" WC="0.96" CONTENT="expanding"/><SP WIDTH="11" VPOS="423" HPOS="1198"/>
+							<String ID="string_38" HPOS="1209" VPOS="424" WIDTH="110" HEIGHT="27" WC="0.96" CONTENT="freedom"/><SP WIDTH="10" VPOS="424" HPOS="1319"/>
+							<String ID="string_39" HPOS="1329" VPOS="427" WIDTH="48" HEIGHT="25" WC="0.96" CONTENT="and"/><SP WIDTH="10" VPOS="427" HPOS="1377"/>
+							<String ID="string_40" HPOS="1387" VPOS="428" WIDTH="151" HEIGHT="27" WC="0.96" CONTENT="democratic"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="238" VPOS="458" WIDTH="1288" HEIGHT="41">
+							<String ID="string_41" HPOS="238" VPOS="458" WIDTH="145" HEIGHT="32" WC="0.83" CONTENT="capitalism,"/><SP WIDTH="11" VPOS="458" HPOS="383"/>
+							<String ID="string_42" HPOS="394" VPOS="459" WIDTH="139" HEIGHT="32" WC="0.95" CONTENT="promoting"/><SP WIDTH="10" VPOS="459" HPOS="533"/>
+							<String ID="string_43" HPOS="543" VPOS="459" WIDTH="105" HEIGHT="32" WC="0.95" CONTENT="policies"/><SP WIDTH="10" VPOS="459" HPOS="648"/>
+							<String ID="string_44" HPOS="658" VPOS="464" WIDTH="25" HEIGHT="20" WC="0.96" CONTENT="to"/><SP WIDTH="10" VPOS="464" HPOS="683"/>
+							<String ID="string_45" HPOS="693" VPOS="460" WIDTH="96" HEIGHT="32" WC="0.96" CONTENT="expand"/><SP WIDTH="9" VPOS="460" HPOS="789"/>
+							<String ID="string_46" HPOS="798" VPOS="461" WIDTH="128" HEIGHT="25" WC="0.96" CONTENT="economic"/><SP WIDTH="10" VPOS="461" HPOS="926"/>
+							<String ID="string_47" HPOS="936" VPOS="462" WIDTH="94" HEIGHT="31" WC="0.96" CONTENT="growth"/><SP WIDTH="9" VPOS="462" HPOS="1030"/>
+							<String ID="string_48" HPOS="1039" VPOS="462" WIDTH="47" HEIGHT="26" WC="0.97" CONTENT="and"/><SP WIDTH="9" VPOS="462" HPOS="1086"/>
+							<String ID="string_49" HPOS="1095" VPOS="465" WIDTH="225" HEIGHT="33" WC="0.95" CONTENT="entrepreneurship"/><SP WIDTH="11" VPOS="465" HPOS="1320"/>
+							<String ID="string_50" HPOS="1331" VPOS="466" WIDTH="39" HEIGHT="26" WC="0.96" CONTENT="for"/><SP WIDTH="9" VPOS="466" HPOS="1370"/>
+							<String ID="string_51" HPOS="1379" VPOS="475" WIDTH="45" HEIGHT="18" WC="0.96" CONTENT="our"/><SP WIDTH="9" VPOS="475" HPOS="1424"/>
+							<String ID="string_52" HPOS="1433" VPOS="469" WIDTH="93" HEIGHT="30" WC="0.96" CONTENT="nation;"/>
+						</TextLine>
+						<TextLine ID="line_6" HPOS="238" VPOS="499" WIDTH="1144" HEIGHT="36">
+							<String ID="string_53" HPOS="238" VPOS="499" WIDTH="47" HEIGHT="25" WC="0.96" CONTENT="and"/><SP WIDTH="10" VPOS="499" HPOS="285"/>
+							<String ID="string_54" HPOS="295" VPOS="499" WIDTH="135" HEIGHT="32" WC="0.96" CONTENT="advancing"/><SP WIDTH="10" VPOS="499" HPOS="430"/>
+							<String ID="string_55" HPOS="440" VPOS="499" WIDTH="77" HEIGHT="26" WC="0.96" CONTENT="social"/><SP WIDTH="11" VPOS="499" HPOS="517"/>
+							<String ID="string_56" HPOS="528" VPOS="500" WIDTH="104" HEIGHT="32" WC="0.96" CONTENT="policies"/><SP WIDTH="11" VPOS="500" HPOS="632"/>
+							<String ID="string_57" HPOS="643" VPOS="500" WIDTH="82" HEIGHT="25" WC="0.96" CONTENT="which"/><SP WIDTH="9" VPOS="500" HPOS="725"/>
+							<String ID="string_58" HPOS="734" VPOS="508" WIDTH="124" HEIGHT="25" WC="0.96" CONTENT="empower"/><SP WIDTH="8" VPOS="508" HPOS="858"/>
+							<String ID="string_59" HPOS="866" VPOS="501" WIDTH="96" HEIGHT="32" WC="0.96" CONTENT="people,"/><SP WIDTH="10" VPOS="501" HPOS="962"/>
+							<String ID="string_60" HPOS="972" VPOS="507" WIDTH="42" HEIGHT="21" WC="0.96" CONTENT="not"/><SP WIDTH="9" VPOS="507" HPOS="1014"/>
+							<String ID="string_61" HPOS="1023" VPOS="509" WIDTH="159" HEIGHT="26" WC="0.96" CONTENT="government"/><SP WIDTH="9" VPOS="509" HPOS="1182"/>
+							<String ID="string_62" HPOS="1191" VPOS="505" WIDTH="191" HEIGHT="27" WC="0.96" CONTENT="bureaucracies."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="236" VPOS="581" WIDTH="1307" HEIGHT="200">
+					<TextBlock ID="block_3" HPOS="236" VPOS="581" WIDTH="1307" HEIGHT="200">
+						<TextLine ID="line_7" HPOS="339" VPOS="581" WIDTH="1151" HEIGHT="40">
+							<String ID="string_63" HPOS="339" VPOS="581" WIDTH="65" HEIGHT="26" WC="0.96" CONTENT="Prior"/><SP WIDTH="10" VPOS="581" HPOS="404"/>
+							<String ID="string_64" HPOS="414" VPOS="587" WIDTH="23" HEIGHT="20" WC="0.96" CONTENT="to"/><SP WIDTH="11" VPOS="587" HPOS="437"/>
+							<String ID="string_65" HPOS="448" VPOS="581" WIDTH="121" HEIGHT="33" WC="0.96" CONTENT="founding"/><SP WIDTH="11" VPOS="581" HPOS="569"/>
+							<String ID="string_66" HPOS="580" VPOS="582" WIDTH="131" HEIGHT="33" WC="0.96" CONTENT="Empower"/><SP WIDTH="5" VPOS="582" HPOS="711"/>
+							<String ID="string_67" HPOS="716" VPOS="582" WIDTH="125" HEIGHT="32" WC="0.96" CONTENT="America,"/><SP WIDTH="10" VPOS="582" HPOS="841"/>
+							<String ID="string_68" HPOS="851" VPOS="583" WIDTH="46" HEIGHT="25" WC="0.96" CONTENT="Mr."/><SP WIDTH="12" VPOS="583" HPOS="897"/>
+							<String ID="string_69" HPOS="909" VPOS="583" WIDTH="79" HEIGHT="33" WC="0.96" CONTENT="Kemp"/><SP WIDTH="10" VPOS="583" HPOS="988"/>
+							<String ID="string_70" HPOS="998" VPOS="585" WIDTH="85" HEIGHT="25" WC="0.96" CONTENT="served"/><SP WIDTH="10" VPOS="585" HPOS="1083"/>
+							<String ID="string_71" HPOS="1093" VPOS="584" WIDTH="38" HEIGHT="27" WC="0.95" CONTENT="for"/><SP WIDTH="10" VPOS="584" HPOS="1131"/>
+							<String ID="string_72" HPOS="1141" VPOS="585" WIDTH="55" HEIGHT="27" WC="0.96" CONTENT="four"/><SP WIDTH="8" VPOS="585" HPOS="1196"/>
+							<String ID="string_73" HPOS="1204" VPOS="594" WIDTH="69" HEIGHT="24" WC="0.96" CONTENT="years"/><SP WIDTH="10" VPOS="594" HPOS="1273"/>
+							<String ID="string_74" HPOS="1283" VPOS="595" WIDTH="27" HEIGHT="18" WC="0.96" CONTENT="as"/><SP WIDTH="11" VPOS="595" HPOS="1310"/>
+							<String ID="string_75" HPOS="1321" VPOS="588" WIDTH="127" HEIGHT="33" WC="0.95" CONTENT="Secretary"/><SP WIDTH="10" VPOS="588" HPOS="1448"/>
+							<String ID="string_76" HPOS="1458" VPOS="589" WIDTH="32" HEIGHT="26" WC="0.97" CONTENT="of"/>
+						</TextLine>
+						<TextLine ID="line_8" HPOS="238" VPOS="622" WIDTH="1285" HEIGHT="35">
+							<String ID="string_77" HPOS="238" VPOS="622" WIDTH="111" HEIGHT="33" WC="0.96" CONTENT="Housing"/><SP WIDTH="10" VPOS="622" HPOS="349"/>
+							<String ID="string_78" HPOS="359" VPOS="623" WIDTH="47" HEIGHT="25" WC="0.96" CONTENT="and"/><SP WIDTH="10" VPOS="623" HPOS="406"/>
+							<String ID="string_79" HPOS="416" VPOS="622" WIDTH="82" HEIGHT="26" WC="0.96" CONTENT="Urban"/><SP WIDTH="10" VPOS="622" HPOS="498"/>
+							<String ID="string_80" HPOS="508" VPOS="623" WIDTH="190" HEIGHT="32" WC="0.96" CONTENT="Development,"/><SP WIDTH="10" VPOS="623" HPOS="698"/>
+							<String ID="string_81" HPOS="708" VPOS="623" WIDTH="48" HEIGHT="26" WC="0.96" CONTENT="and"/><SP WIDTH="10" VPOS="623" HPOS="756"/>
+							<String ID="string_82" HPOS="766" VPOS="623" WIDTH="90" HEIGHT="33" WC="0.96" CONTENT="proved"/><SP WIDTH="9" VPOS="623" HPOS="856"/>
+							<String ID="string_83" HPOS="865" VPOS="628" WIDTH="25" HEIGHT="21" WC="0.96" CONTENT="to"/><SP WIDTH="10" VPOS="628" HPOS="890"/>
+							<String ID="string_84" HPOS="900" VPOS="624" WIDTH="30" HEIGHT="26" WC="0.96" CONTENT="be"/><SP WIDTH="9" VPOS="624" HPOS="930"/>
+							<String ID="string_85" HPOS="939" VPOS="632" WIDTH="48" HEIGHT="18" WC="0.96" CONTENT="one"/><SP WIDTH="9" VPOS="632" HPOS="987"/>
+							<String ID="string_86" HPOS="996" VPOS="624" WIDTH="31" HEIGHT="27" WC="0.96" CONTENT="of"/><SP WIDTH="4" VPOS="624" HPOS="1027"/>
+							<String ID="string_87" HPOS="1031" VPOS="633" WIDTH="45" HEIGHT="18" WC="0.97" CONTENT="our"/><SP WIDTH="8" VPOS="633" HPOS="1076"/>
+							<String ID="string_88" HPOS="1084" VPOS="626" WIDTH="107" HEIGHT="27" WC="0.96" CONTENT="nation’s"/><SP WIDTH="9" VPOS="626" HPOS="1191"/>
+							<String ID="string_89" HPOS="1200" VPOS="632" WIDTH="65" HEIGHT="21" WC="0.96" CONTENT="most"/><SP WIDTH="10" VPOS="632" HPOS="1265"/>
+							<String ID="string_90" HPOS="1275" VPOS="628" WIDTH="143" HEIGHT="27" WC="0.96" CONTENT="innovative"/><SP WIDTH="11" VPOS="628" HPOS="1418"/>
+							<String ID="string_91" HPOS="1429" VPOS="630" WIDTH="94" HEIGHT="27" WC="0.96" CONTENT="leaders"/>
+						</TextLine>
+						<TextLine ID="line_9" HPOS="238" VPOS="663" WIDTH="1147" HEIGHT="39">
+							<String ID="string_92" HPOS="238" VPOS="663" WIDTH="24" HEIGHT="25" WC="0.96" CONTENT="in"/><SP WIDTH="10" VPOS="663" HPOS="262"/>
+							<String ID="string_93" HPOS="272" VPOS="663" WIDTH="49" HEIGHT="25" WC="0.96" CONTENT="that"/><SP WIDTH="9" VPOS="663" HPOS="321"/>
+							<String ID="string_94" HPOS="330" VPOS="664" WIDTH="58" HEIGHT="25" WC="0.96" CONTENT="role."/><SP WIDTH="20" VPOS="664" HPOS="388"/>
+							<String ID="string_95" HPOS="408" VPOS="664" WIDTH="36" HEIGHT="25" WC="0.96" CONTENT="He"/><SP WIDTH="10" VPOS="664" HPOS="444"/>
+							<String ID="string_96" HPOS="454" VPOS="671" WIDTH="51" HEIGHT="18" WC="0.96" CONTENT="was"/><SP WIDTH="10" VPOS="671" HPOS="505"/>
+							<String ID="string_97" HPOS="515" VPOS="664" WIDTH="40" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="11" VPOS="664" HPOS="555"/>
+							<String ID="string_98" HPOS="566" VPOS="663" WIDTH="53" HEIGHT="26" WC="0.95" CONTENT="first"/><SP WIDTH="9" VPOS="663" HPOS="619"/>
+							<String ID="string_99" HPOS="628" VPOS="664" WIDTH="49" HEIGHT="25" WC="0.95" CONTENT="and"/><SP WIDTH="10" VPOS="664" HPOS="677"/>
+							<String ID="string_100" HPOS="687" VPOS="669" WIDTH="120" HEIGHT="27" WC="0.95" CONTENT="strongest"/><SP WIDTH="8" VPOS="669" HPOS="807"/>
+							<String ID="string_101" HPOS="815" VPOS="664" WIDTH="117" HEIGHT="26" WC="0.96" CONTENT="advocate"/><SP WIDTH="9" VPOS="664" HPOS="932"/>
+							<String ID="string_102" HPOS="941" VPOS="664" WIDTH="31" HEIGHT="27" WC="0.97" CONTENT="of"/><SP WIDTH="6" VPOS="664" HPOS="972"/>
+							<String ID="string_103" HPOS="978" VPOS="665" WIDTH="135" HEIGHT="34" WC="0.96" CONTENT="Enterprise"/><SP WIDTH="9" VPOS="665" HPOS="1113"/>
+							<String ID="string_104" HPOS="1122" VPOS="667" WIDTH="81" HEIGHT="26" WC="0.96" CONTENT="Zones"/><SP WIDTH="9" VPOS="667" HPOS="1203"/>
+							<String ID="string_105" HPOS="1212" VPOS="673" WIDTH="25" HEIGHT="21" WC="0.96" CONTENT="to"/><SP WIDTH="10" VPOS="673" HPOS="1237"/>
+							<String ID="string_106" HPOS="1247" VPOS="676" WIDTH="138" HEIGHT="26" WC="0.96" CONTENT="encourage"/>
+						</TextLine>
+						<TextLine ID="line_10" HPOS="236" VPOS="704" WIDTH="1307" HEIGHT="41">
+							<String ID="string_107" HPOS="236" VPOS="705" WIDTH="223" HEIGHT="32" WC="0.96" CONTENT="entrepreneurship"/><SP WIDTH="9" VPOS="705" HPOS="459"/>
+							<String ID="string_108" HPOS="468" VPOS="700" WIDTH="42" HEIGHT="49" WC="0.96" CONTENT="and"/><SP WIDTH="13" VPOS="700" HPOS="510"/>
+							<String ID="string_109" HPOS="523" VPOS="704" WIDTH="40" HEIGHT="33" WC="0.96" CONTENT="job"/><SP WIDTH="15" VPOS="704" HPOS="563"/>
+							<String ID="string_110" HPOS="578" VPOS="704" WIDTH="109" HEIGHT="26" WC="0.96" CONTENT="creation"/><SP WIDTH="10" VPOS="704" HPOS="687"/>
+							<String ID="string_111" HPOS="697" VPOS="705" WIDTH="25" HEIGHT="26" WC="0.96" CONTENT="in"/><SP WIDTH="10" VPOS="705" HPOS="722"/>
+							<String ID="string_112" HPOS="732" VPOS="705" WIDTH="75" HEIGHT="26" WC="0.96" CONTENT="urban"/><SP WIDTH="8" VPOS="705" HPOS="807"/>
+							<String ID="string_113" HPOS="815" VPOS="705" WIDTH="114" HEIGHT="26" WC="0.95" CONTENT="America"/><SP WIDTH="8" VPOS="705" HPOS="929"/>
+							<String ID="string_114" HPOS="937" VPOS="706" WIDTH="48" HEIGHT="26" WC="0.95" CONTENT="and"/><SP WIDTH="9" VPOS="706" HPOS="985"/>
+							<String ID="string_115" HPOS="994" VPOS="706" WIDTH="31" HEIGHT="26" WC="0.96" CONTENT="of"/><SP WIDTH="5" VPOS="706" HPOS="1025"/>
+							<String ID="string_116" HPOS="1030" VPOS="707" WIDTH="137" HEIGHT="34" WC="0.96" CONTENT="expanding"/><SP WIDTH="10" VPOS="707" HPOS="1167"/>
+							<String ID="string_117" HPOS="1177" VPOS="708" WIDTH="215" HEIGHT="35" WC="0.96" CONTENT="homeownership"/><SP WIDTH="10" VPOS="708" HPOS="1392"/>
+							<String ID="string_118" HPOS="1402" VPOS="718" WIDTH="91" HEIGHT="27" WC="0.96" CONTENT="among"/><SP WIDTH="11" VPOS="718" HPOS="1493"/>
+							<String ID="string_119" HPOS="1504" VPOS="713" WIDTH="39" HEIGHT="26" WC="0.97" CONTENT="the"/>
+						</TextLine>
+						<TextLine ID="line_11" HPOS="237" VPOS="745" WIDTH="920" HEIGHT="36">
+							<String ID="string_120" HPOS="237" VPOS="752" WIDTH="61" HEIGHT="25" WC="0.96" CONTENT="poor"/><SP WIDTH="9" VPOS="752" HPOS="298"/>
+							<String ID="string_121" HPOS="307" VPOS="745" WIDTH="102" HEIGHT="33" WC="0.96" CONTENT="through"/><SP WIDTH="10" VPOS="745" HPOS="409"/>
+							<String ID="string_122" HPOS="419" VPOS="745" WIDTH="105" HEIGHT="26" WC="0.96" CONTENT="resident"/><SP WIDTH="10" VPOS="745" HPOS="524"/>
+							<String ID="string_123" HPOS="534" VPOS="750" WIDTH="173" HEIGHT="28" WC="0.96" CONTENT="management"/><SP WIDTH="9" VPOS="750" HPOS="707"/>
+							<String ID="string_124" HPOS="716" VPOS="746" WIDTH="47" HEIGHT="26" WC="0.97" CONTENT="and"/><SP WIDTH="9" VPOS="746" HPOS="763"/>
+							<String ID="string_125" HPOS="772" VPOS="746" WIDTH="137" HEIGHT="33" WC="0.96" CONTENT="ownership"/><SP WIDTH="9" VPOS="746" HPOS="909"/>
+							<String ID="string_126" HPOS="918" VPOS="746" WIDTH="31" HEIGHT="26" WC="0.96" CONTENT="of"/><SP WIDTH="5" VPOS="746" HPOS="949"/>
+							<String ID="string_127" HPOS="954" VPOS="747" WIDTH="81" HEIGHT="33" WC="0.96" CONTENT="public"/><SP WIDTH="11" VPOS="747" HPOS="1035"/>
+							<String ID="string_128" HPOS="1046" VPOS="748" WIDTH="111" HEIGHT="33" WC="0.96" CONTENT="housing."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="235" VPOS="826" WIDTH="1308" HEIGHT="198">
+					<TextBlock ID="block_4" HPOS="235" VPOS="826" WIDTH="1308" HEIGHT="198">
+						<TextLine ID="line_12" HPOS="337" VPOS="826" WIDTH="1137" HEIGHT="39">
+							<String ID="string_129" HPOS="337" VPOS="826" WIDTH="26" HEIGHT="25" WC="0.96" CONTENT="In"/><SP WIDTH="11" VPOS="826" HPOS="363"/>
+							<String ID="string_130" HPOS="374" VPOS="827" WIDTH="92" HEIGHT="29" WC="0.96" CONTENT="March,"/><SP WIDTH="14" VPOS="827" HPOS="466"/>
+							<String ID="string_131" HPOS="480" VPOS="827" WIDTH="70" HEIGHT="29" WC="0.95" CONTENT="1995,"/><SP WIDTH="12" VPOS="827" HPOS="550"/>
+							<String ID="string_132" HPOS="562" VPOS="827" WIDTH="103" HEIGHT="26" WC="0.96" CONTENT="Senator"/><SP WIDTH="9" VPOS="827" HPOS="665"/>
+							<String ID="string_133" HPOS="674" VPOS="827" WIDTH="55" HEIGHT="26" WC="0.96" CONTENT="Bob"/><SP WIDTH="10" VPOS="827" HPOS="729"/>
+							<String ID="string_134" HPOS="739" VPOS="827" WIDTH="62" HEIGHT="26" WC="0.96" CONTENT="Dole"/><SP WIDTH="10" VPOS="827" HPOS="801"/>
+							<String ID="string_135" HPOS="811" VPOS="828" WIDTH="47" HEIGHT="25" WC="0.96" CONTENT="and"/><SP WIDTH="10" VPOS="828" HPOS="858"/>
+							<String ID="string_136" HPOS="868" VPOS="828" WIDTH="105" HEIGHT="32" WC="0.96" CONTENT="Speaker"/><SP WIDTH="8" VPOS="828" HPOS="973"/>
+							<String ID="string_137" HPOS="981" VPOS="829" WIDTH="71" HEIGHT="25" WC="0.96" CONTENT="Newt"/><SP WIDTH="10" VPOS="829" HPOS="1052"/>
+							<String ID="string_138" HPOS="1062" VPOS="830" WIDTH="117" HEIGHT="33" WC="0.96" CONTENT="Gingrich"/><SP WIDTH="9" VPOS="830" HPOS="1179"/>
+							<String ID="string_139" HPOS="1188" VPOS="837" WIDTH="42" HEIGHT="26" WC="0.96" CONTENT="put"/><SP WIDTH="9" VPOS="837" HPOS="1230"/>
+							<String ID="string_140" HPOS="1239" VPOS="832" WIDTH="59" HEIGHT="25" WC="0.96" CONTENT="Jack"/><SP WIDTH="10" VPOS="832" HPOS="1298"/>
+							<String ID="string_141" HPOS="1308" VPOS="832" WIDTH="81" HEIGHT="33" WC="0.96" CONTENT="Kemp"/><SP WIDTH="10" VPOS="832" HPOS="1389"/>
+							<String ID="string_142" HPOS="1399" VPOS="839" WIDTH="24" HEIGHT="19" WC="0.96" CONTENT="at"/><SP WIDTH="10" VPOS="839" HPOS="1423"/>
+							<String ID="string_143" HPOS="1433" VPOS="834" WIDTH="41" HEIGHT="25" WC="0.96" CONTENT="the"/>
+						</TextLine>
+						<TextLine ID="line_13" HPOS="235" VPOS="866" WIDTH="1226" HEIGHT="38">
+							<String ID="string_144" HPOS="235" VPOS="872" WIDTH="82" HEIGHT="19" WC="0.96" CONTENT="center"/><SP WIDTH="8" VPOS="872" HPOS="317"/>
+							<String ID="string_145" HPOS="325" VPOS="866" WIDTH="31" HEIGHT="26" WC="0.96" CONTENT="of"/><SP WIDTH="5" VPOS="866" HPOS="356"/>
+							<String ID="string_146" HPOS="361" VPOS="867" WIDTH="40" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="10" VPOS="867" HPOS="401"/>
+							<String ID="string_147" HPOS="411" VPOS="872" WIDTH="38" HEIGHT="20" WC="0.96" CONTENT="tax"/><SP WIDTH="10" VPOS="872" HPOS="449"/>
+							<String ID="string_148" HPOS="459" VPOS="867" WIDTH="48" HEIGHT="26" WC="0.96" CONTENT="and"/><SP WIDTH="9" VPOS="867" HPOS="507"/>
+							<String ID="string_149" HPOS="516" VPOS="868" WIDTH="131" HEIGHT="25" WC="0.96" CONTENT="economic"/><SP WIDTH="10" VPOS="868" HPOS="647"/>
+							<String ID="string_150" HPOS="657" VPOS="868" WIDTH="87" HEIGHT="25" WC="0.96" CONTENT="debate"/><SP WIDTH="10" VPOS="868" HPOS="744"/>
+							<String ID="string_151" HPOS="754" VPOS="868" WIDTH="37" HEIGHT="26" WC="0.96" CONTENT="for"/><SP WIDTH="9" VPOS="868" HPOS="791"/>
+							<String ID="string_152" HPOS="800" VPOS="868" WIDTH="39" HEIGHT="26" WC="0.96" CONTENT="the"/><SP WIDTH="11" VPOS="868" HPOS="839"/>
+							<String ID="string_153" HPOS="850" VPOS="868" WIDTH="41" HEIGHT="26" WC="0.96" CONTENT="‘96"/><SP WIDTH="10" VPOS="868" HPOS="891"/>
+							<String ID="string_154" HPOS="901" VPOS="869" WIDTH="128" HEIGHT="33" WC="0.96" CONTENT="campaign"/><SP WIDTH="9" VPOS="869" HPOS="1029"/>
+							<String ID="string_155" HPOS="1038" VPOS="870" WIDTH="31" HEIGHT="32" WC="0.96" CONTENT="by"/><SP WIDTH="10" VPOS="870" HPOS="1069"/>
+							<String ID="string_156" HPOS="1079" VPOS="871" WIDTH="99" HEIGHT="33" WC="0.96" CONTENT="naming"/><SP WIDTH="9" VPOS="871" HPOS="1178"/>
+							<String ID="string_157" HPOS="1187" VPOS="872" WIDTH="52" HEIGHT="25" WC="0.96" CONTENT="him"/><SP WIDTH="9" VPOS="872" HPOS="1239"/>
+							<String ID="string_158" HPOS="1248" VPOS="872" WIDTH="125" HEIGHT="27" WC="0.96" CONTENT="chairman"/><SP WIDTH="9" VPOS="872" HPOS="1373"/>
+							<String ID="string_159" HPOS="1382" VPOS="873" WIDTH="32" HEIGHT="26" WC="0.96" CONTENT="of"/><SP WIDTH="5" VPOS="873" HPOS="1414"/>
+							<String ID="string_160" HPOS="1419" VPOS="874" WIDTH="42" HEIGHT="25" WC="0.96" CONTENT="the"/>
+						</TextLine>
+						<TextLine ID="line_14" HPOS="235" VPOS="907" WIDTH="1308" HEIGHT="40">
+							<String ID="string_161" HPOS="235" VPOS="907" WIDTH="113" HEIGHT="25" WC="0.96" CONTENT="National"/><SP WIDTH="11" VPOS="907" HPOS="348"/>
+							<String ID="string_162" HPOS="359" VPOS="908" WIDTH="169" HEIGHT="26" WC="0.96" CONTENT="Commission"/><SP WIDTH="9" VPOS="908" HPOS="528"/>
+							<String ID="string_163" HPOS="537" VPOS="916" WIDTH="34" HEIGHT="18" WC="0.96" CONTENT="on"/><SP WIDTH="10" VPOS="916" HPOS="571"/>
+							<String ID="string_164" HPOS="581" VPOS="908" WIDTH="135" HEIGHT="26" WC="0.96" CONTENT="Economic"/><SP WIDTH="10" VPOS="908" HPOS="716"/>
+							<String ID="string_165" HPOS="726" VPOS="909" WIDTH="101" HEIGHT="26" WC="0.96" CONTENT="Growth"/><SP WIDTH="8" VPOS="909" HPOS="827"/>
+							<String ID="string_166" HPOS="835" VPOS="909" WIDTH="47" HEIGHT="26" WC="0.96" CONTENT="and"/><SP WIDTH="9" VPOS="909" HPOS="882"/>
+							<String ID="string_167" HPOS="891" VPOS="909" WIDTH="50" HEIGHT="26" WC="0.96" CONTENT="Tax"/><SP WIDTH="10" VPOS="909" HPOS="941"/>
+							<String ID="string_168" HPOS="951" VPOS="909" WIDTH="99" HEIGHT="27" WC="0.96" CONTENT="Reform"/><SP WIDTH="10" VPOS="909" HPOS="1050"/>
+							<String ID="string_169" HPOS="1060" VPOS="916" WIDTH="24" HEIGHT="20" WC="0.96" CONTENT="to"/><SP WIDTH="10" VPOS="916" HPOS="1084"/>
+							<String ID="string_170" HPOS="1094" VPOS="911" WIDTH="71" HEIGHT="33" WC="0.96" CONTENT="study"/><SP WIDTH="10" VPOS="911" HPOS="1165"/>
+							<String ID="string_171" HPOS="1175" VPOS="912" WIDTH="57" HEIGHT="25" WC="0.96" CONTENT="how"/><SP WIDTH="9" VPOS="912" HPOS="1232"/>
+							<String ID="string_172" HPOS="1241" VPOS="913" WIDTH="78" HEIGHT="32" WC="0.96" CONTENT="major"/><SP WIDTH="9" VPOS="913" HPOS="1319"/>
+							<String ID="string_173" HPOS="1328" VPOS="915" WIDTH="174" HEIGHT="32" WC="0.96" CONTENT="restructuring"/><SP WIDTH="9" VPOS="915" HPOS="1502"/>
+							<String ID="string_174" HPOS="1511" VPOS="915" WIDTH="32" HEIGHT="26" WC="0.96" CONTENT="of"/>
+						</TextLine>
+						<TextLine ID="line_15" HPOS="235" VPOS="948" WIDTH="1301" HEIGHT="39">
+							<String ID="string_175" HPOS="235" VPOS="955" WIDTH="45" HEIGHT="18" WC="0.95" CONTENT="our"/><SP WIDTH="8" VPOS="955" HPOS="280"/>
+							<String ID="string_176" HPOS="288" VPOS="953" WIDTH="40" HEIGHT="20" WC="0.96" CONTENT="tax"/><SP WIDTH="9" VPOS="953" HPOS="328"/>
+							<String ID="string_177" HPOS="337" VPOS="948" WIDTH="62" HEIGHT="25" WC="0.96" CONTENT="code"/><SP WIDTH="9" VPOS="948" HPOS="399"/>
+							<String ID="string_178" HPOS="408" VPOS="956" WIDTH="45" HEIGHT="18" WC="0.95" CONTENT="can"/><SP WIDTH="10" VPOS="956" HPOS="453"/>
+							<String ID="string_179" HPOS="463" VPOS="949" WIDTH="56" HEIGHT="32" WC="0.95" CONTENT="help"/><SP WIDTH="11" VPOS="949" HPOS="519"/>
+							<String ID="string_180" HPOS="530" VPOS="949" WIDTH="102" HEIGHT="26" WC="0.96" CONTENT="unleash"/><SP WIDTH="9" VPOS="949" HPOS="632"/>
+							<String ID="string_181" HPOS="641" VPOS="949" WIDTH="41" HEIGHT="26" WC="0.96" CONTENT="the"/><SP WIDTH="9" VPOS="949" HPOS="682"/>
+							<String ID="string_182" HPOS="691" VPOS="949" WIDTH="199" HEIGHT="33" WC="0.96" CONTENT="entrepreneurial"/><SP WIDTH="10" VPOS="949" HPOS="890"/>
+							<String ID="string_183" HPOS="900" VPOS="950" WIDTH="68" HEIGHT="33" WC="0.96" CONTENT="spirit"/><SP WIDTH="8" VPOS="950" HPOS="968"/>
+							<String ID="string_184" HPOS="976" VPOS="950" WIDTH="31" HEIGHT="26" WC="0.96" CONTENT="of"/><SP WIDTH="5" VPOS="950" HPOS="1007"/>
+							<String ID="string_185" HPOS="1012" VPOS="951" WIDTH="150" HEIGHT="31" WC="0.96" CONTENT="Americans,"/><SP WIDTH="10" VPOS="951" HPOS="1162"/>
+							<String ID="string_186" HPOS="1172" VPOS="960" WIDTH="69" HEIGHT="25" WC="0.96" CONTENT="grow"/><SP WIDTH="8" VPOS="960" HPOS="1241"/>
+							<String ID="string_187" HPOS="1249" VPOS="953" WIDTH="40" HEIGHT="26" WC="0.96" CONTENT="the"/><SP WIDTH="9" VPOS="953" HPOS="1289"/>
+							<String ID="string_188" HPOS="1298" VPOS="961" WIDTH="124" HEIGHT="26" WC="0.96" CONTENT="economy"/><SP WIDTH="10" VPOS="961" HPOS="1422"/>
+							<String ID="string_189" HPOS="1432" VPOS="955" WIDTH="104" HEIGHT="26" WC="0.96" CONTENT="without"/>
+						</TextLine>
+						<TextLine ID="line_16" HPOS="236" VPOS="988" WIDTH="912" HEIGHT="36">
+							<String ID="string_190" HPOS="236" VPOS="988" WIDTH="112" HEIGHT="26" WC="0.96" CONTENT="inflation"/><SP WIDTH="9" VPOS="988" HPOS="348"/>
+							<String ID="string_191" HPOS="357" VPOS="989" WIDTH="47" HEIGHT="25" WC="0.96" CONTENT="and"/><SP WIDTH="9" VPOS="989" HPOS="404"/>
+							<String ID="string_192" HPOS="413" VPOS="994" WIDTH="78" HEIGHT="21" WC="0.96" CONTENT="create"/><SP WIDTH="10" VPOS="994" HPOS="491"/>
+							<String ID="string_193" HPOS="501" VPOS="994" WIDTH="93" HEIGHT="28" WC="0.96" CONTENT="greater"/><SP WIDTH="9" VPOS="994" HPOS="594"/>
+							<String ID="string_194" HPOS="603" VPOS="990" WIDTH="157" HEIGHT="32" WC="0.96" CONTENT="opportunity"/><SP WIDTH="9" VPOS="990" HPOS="760"/>
+							<String ID="string_195" HPOS="769" VPOS="989" WIDTH="38" HEIGHT="27" WC="0.97" CONTENT="for"/><SP WIDTH="8" VPOS="989" HPOS="807"/>
+							<String ID="string_196" HPOS="815" VPOS="990" WIDTH="87" HEIGHT="33" WC="0.96" CONTENT="people"/><SP WIDTH="9" VPOS="990" HPOS="902"/>
+							<String ID="string_197" HPOS="911" VPOS="995" WIDTH="25" HEIGHT="22" WC="0.96" CONTENT="to"/><SP WIDTH="9" VPOS="995" HPOS="936"/>
+							<String ID="string_198" HPOS="945" VPOS="999" WIDTH="87" HEIGHT="25" WC="0.96" CONTENT="escape"/><SP WIDTH="8" VPOS="999" HPOS="1032"/>
+							<String ID="string_199" HPOS="1040" VPOS="997" WIDTH="108" HEIGHT="27" WC="0.95" CONTENT="poverty."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_6" HPOS="235" VPOS="1070" WIDTH="1303" HEIGHT="228">
+					<TextBlock ID="block_5" HPOS="235" VPOS="1070" WIDTH="1303" HEIGHT="228">
+						<TextLine ID="line_17" HPOS="336" VPOS="1070" WIDTH="1201" HEIGHT="36">
+							<String ID="string_200" HPOS="336" VPOS="1070" WIDTH="46" HEIGHT="25" WC="0.96" CONTENT="Mr."/><SP WIDTH="12" VPOS="1070" HPOS="382"/>
+							<String ID="string_201" HPOS="394" VPOS="1070" WIDTH="78" HEIGHT="33" WC="0.96" CONTENT="Kemp"/><SP WIDTH="10" VPOS="1070" HPOS="472"/>
+							<String ID="string_202" HPOS="482" VPOS="1070" WIDTH="53" HEIGHT="26" WC="0.96" CONTENT="also"/><SP WIDTH="10" VPOS="1070" HPOS="535"/>
+							<String ID="string_203" HPOS="545" VPOS="1078" WIDTH="83" HEIGHT="18" WC="0.96" CONTENT="serves"/><SP WIDTH="10" VPOS="1078" HPOS="628"/>
+							<String ID="string_204" HPOS="638" VPOS="1078" WIDTH="27" HEIGHT="18" WC="0.96" CONTENT="as"/><SP WIDTH="9" VPOS="1078" HPOS="665"/>
+							<String ID="string_205" HPOS="674" VPOS="1078" WIDTH="15" HEIGHT="18" WC="0.96" CONTENT="a"/><SP WIDTH="9" VPOS="1078" HPOS="689"/>
+							<String ID="string_206" HPOS="698" VPOS="1071" WIDTH="183" HEIGHT="33" WC="0.96" CONTENT="Distinguished"/><SP WIDTH="10" VPOS="1071" HPOS="881"/>
+							<String ID="string_207" HPOS="891" VPOS="1072" WIDTH="91" HEIGHT="26" WC="0.96" CONTENT="Fellow"/><SP WIDTH="8" VPOS="1072" HPOS="982"/>
+							<String ID="string_208" HPOS="990" VPOS="1077" WIDTH="24" HEIGHT="21" WC="0.96" CONTENT="at"/><SP WIDTH="8" VPOS="1077" HPOS="1014"/>
+							<String ID="string_209" HPOS="1022" VPOS="1073" WIDTH="39" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="10" VPOS="1073" HPOS="1061"/>
+							<String ID="string_210" HPOS="1071" VPOS="1073" WIDTH="112" HEIGHT="33" WC="0.96" CONTENT="Heritage"/><SP WIDTH="10" VPOS="1073" HPOS="1183"/>
+							<String ID="string_211" HPOS="1193" VPOS="1074" WIDTH="159" HEIGHT="31" WC="0.96" CONTENT="Foundation,"/><SP WIDTH="10" VPOS="1074" HPOS="1352"/>
+							<String ID="string_212" HPOS="1362" VPOS="1083" WIDTH="33" HEIGHT="18" WC="0.96" CONTENT="on"/><SP WIDTH="10" VPOS="1083" HPOS="1395"/>
+							<String ID="string_213" HPOS="1405" VPOS="1076" WIDTH="40" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="11" VPOS="1076" HPOS="1445"/>
+							<String ID="string_214" HPOS="1456" VPOS="1077" WIDTH="81" HEIGHT="25" WC="0.97" CONTENT="Board"/>
+						</TextLine>
+						<TextLine ID="line_18" HPOS="235" VPOS="1109" WIDTH="1156" HEIGHT="36">
+							<String ID="string_215" HPOS="235" VPOS="1109" WIDTH="31" HEIGHT="27" WC="0.96" CONTENT="of"/><SP WIDTH="6" VPOS="1109" HPOS="266"/>
+							<String ID="string_216" HPOS="272" VPOS="1110" WIDTH="122" HEIGHT="26" WC="0.96" CONTENT="Directors"/><SP WIDTH="9" VPOS="1110" HPOS="394"/>
+							<String ID="string_217" HPOS="403" VPOS="1110" WIDTH="30" HEIGHT="26" WC="0.97" CONTENT="of"/><SP WIDTH="6" VPOS="1110" HPOS="433"/>
+							<String ID="string_218" HPOS="439" VPOS="1111" WIDTH="98" HEIGHT="25" WC="0.96" CONTENT="Habitat"/><SP WIDTH="10" VPOS="1111" HPOS="537"/>
+							<String ID="string_219" HPOS="547" VPOS="1111" WIDTH="38" HEIGHT="26" WC="0.96" CONTENT="for"/><SP WIDTH="9" VPOS="1111" HPOS="585"/>
+							<String ID="string_220" HPOS="594" VPOS="1112" WIDTH="141" HEIGHT="32" WC="0.96" CONTENT="Humanity,"/><SP WIDTH="10" VPOS="1112" HPOS="735"/>
+							<String ID="string_221" HPOS="745" VPOS="1112" WIDTH="47" HEIGHT="26" WC="0.96" CONTENT="and"/><SP WIDTH="9" VPOS="1112" HPOS="792"/>
+							<String ID="string_222" HPOS="801" VPOS="1119" WIDTH="50" HEIGHT="19" WC="0.96" CONTENT="was"/><SP WIDTH="9" VPOS="1119" HPOS="851"/>
+							<String ID="string_223" HPOS="860" VPOS="1113" WIDTH="106" HEIGHT="32" WC="0.96" CONTENT="recently"/><SP WIDTH="8" VPOS="1113" HPOS="966"/>
+							<String ID="string_224" HPOS="974" VPOS="1113" WIDTH="92" HEIGHT="26" WC="0.96" CONTENT="elected"/><SP WIDTH="9" VPOS="1113" HPOS="1066"/>
+							<String ID="string_225" HPOS="1075" VPOS="1118" WIDTH="25" HEIGHT="21" WC="0.96" CONTENT="to"/><SP WIDTH="10" VPOS="1118" HPOS="1100"/>
+							<String ID="string_226" HPOS="1110" VPOS="1114" WIDTH="39" HEIGHT="26" WC="0.96" CONTENT="the"/><SP WIDTH="10" VPOS="1114" HPOS="1149"/>
+							<String ID="string_227" HPOS="1159" VPOS="1115" WIDTH="80" HEIGHT="25" WC="0.96" CONTENT="Board"/><SP WIDTH="9" VPOS="1115" HPOS="1239"/>
+							<String ID="string_228" HPOS="1248" VPOS="1115" WIDTH="32" HEIGHT="26" WC="0.96" CONTENT="of"/><SP WIDTH="4" VPOS="1115" HPOS="1280"/>
+							<String ID="string_229" HPOS="1284" VPOS="1116" WIDTH="107" HEIGHT="26" WC="0.96" CONTENT="Howard"/>
+						</TextLine>
+						<TextLine ID="line_19" HPOS="235" VPOS="1151" WIDTH="1296" HEIGHT="37">
+							<String ID="string_230" HPOS="235" VPOS="1151" WIDTH="140" HEIGHT="32" WC="0.96" CONTENT="University"/><SP WIDTH="10" VPOS="1151" HPOS="375"/>
+							<String ID="string_231" HPOS="385" VPOS="1151" WIDTH="24" HEIGHT="25" WC="0.96" CONTENT="in"/><SP WIDTH="10" VPOS="1151" HPOS="409"/>
+							<String ID="string_232" HPOS="419" VPOS="1152" WIDTH="168" HEIGHT="32" WC="0.96" CONTENT="Washington,"/><SP WIDTH="10" VPOS="1152" HPOS="587"/>
+							<String ID="string_233" HPOS="597" VPOS="1152" WIDTH="62" HEIGHT="26" WC="0.96" CONTENT="D.C."/><SP WIDTH="19" VPOS="1152" HPOS="659"/>
+							<String ID="string_234" HPOS="678" VPOS="1152" WIDTH="27" HEIGHT="26" WC="0.94" CONTENT="In"/><SP WIDTH="9" VPOS="1152" HPOS="705"/>
+							<String ID="string_235" HPOS="714" VPOS="1152" WIDTH="115" HEIGHT="31" WC="0.94" CONTENT="addition,"/><SP WIDTH="10" VPOS="1152" HPOS="829"/>
+							<String ID="string_236" HPOS="839" VPOS="1152" WIDTH="30" HEIGHT="27" WC="0.97" CONTENT="he"/><SP WIDTH="9" VPOS="1152" HPOS="869"/>
+							<String ID="string_237" HPOS="878" VPOS="1153" WIDTH="43" HEIGHT="26" WC="0.96" CONTENT="has"/><SP WIDTH="9" VPOS="1153" HPOS="921"/>
+							<String ID="string_238" HPOS="930" VPOS="1153" WIDTH="62" HEIGHT="26" WC="0.96" CONTENT="been"/><SP WIDTH="9" VPOS="1153" HPOS="992"/>
+							<String ID="string_239" HPOS="1001" VPOS="1154" WIDTH="104" HEIGHT="26" WC="0.96" CONTENT="selected"/><SP WIDTH="9" VPOS="1154" HPOS="1105"/>
+							<String ID="string_240" HPOS="1114" VPOS="1162" WIDTH="27" HEIGHT="18" WC="0.96" CONTENT="as"/><SP WIDTH="10" VPOS="1162" HPOS="1141"/>
+							<String ID="string_241" HPOS="1151" VPOS="1155" WIDTH="126" HEIGHT="26" WC="0.96" CONTENT="Domestic"/><SP WIDTH="10" VPOS="1155" HPOS="1277"/>
+							<String ID="string_242" HPOS="1287" VPOS="1156" WIDTH="84" HEIGHT="32" WC="0.95" CONTENT="Policy"/><SP WIDTH="10" VPOS="1156" HPOS="1371"/>
+							<String ID="string_243" HPOS="1381" VPOS="1157" WIDTH="150" HEIGHT="26" WC="0.96" CONTENT="Committee"/>
+						</TextLine>
+						<TextLine ID="line_20" HPOS="235" VPOS="1191" WIDTH="1303" HEIGHT="38">
+							<String ID="string_244" HPOS="235" VPOS="1191" WIDTH="130" HEIGHT="26" WC="0.95" CONTENT="Chairman"/><SP WIDTH="9" VPOS="1191" HPOS="365"/>
+							<String ID="string_245" HPOS="374" VPOS="1192" WIDTH="31" HEIGHT="25" WC="0.95" CONTENT="of"/><SP WIDTH="6" VPOS="1192" HPOS="405"/>
+							<String ID="string_246" HPOS="411" VPOS="1192" WIDTH="38" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="10" VPOS="1192" HPOS="449"/>
+							<String ID="string_247" HPOS="459" VPOS="1192" WIDTH="170" HEIGHT="26" WC="0.96" CONTENT="International"/><SP WIDTH="10" VPOS="1192" HPOS="629"/>
+							<String ID="string_248" HPOS="639" VPOS="1193" WIDTH="153" HEIGHT="26" WC="0.95" CONTENT="Democratic"/><SP WIDTH="11" VPOS="1193" HPOS="792"/>
+							<String ID="string_249" HPOS="803" VPOS="1193" WIDTH="89" HEIGHT="30" WC="0.96" CONTENT="Union,"/><SP WIDTH="9" VPOS="1193" HPOS="892"/>
+							<String ID="string_250" HPOS="901" VPOS="1201" WIDTH="15" HEIGHT="18" WC="0.95" CONTENT="a"/><SP WIDTH="8" VPOS="1201" HPOS="916"/>
+							<String ID="string_251" HPOS="924" VPOS="1194" WIDTH="140" HEIGHT="26" WC="0.96" CONTENT="worldwide"/><SP WIDTH="8" VPOS="1194" HPOS="1064"/>
+							<String ID="string_252" HPOS="1072" VPOS="1195" WIDTH="166" HEIGHT="32" WC="0.96" CONTENT="organization"/><SP WIDTH="8" VPOS="1195" HPOS="1238"/>
+							<String ID="string_253" HPOS="1246" VPOS="1196" WIDTH="32" HEIGHT="26" WC="0.96" CONTENT="of"/><SP WIDTH="4" VPOS="1196" HPOS="1278"/>
+							<String ID="string_254" HPOS="1282" VPOS="1197" WIDTH="109" HEIGHT="32" WC="0.96" CONTENT="political"/><SP WIDTH="11" VPOS="1197" HPOS="1391"/>
+							<String ID="string_255" HPOS="1402" VPOS="1197" WIDTH="95" HEIGHT="26" WC="0.96" CONTENT="leaders"/><SP WIDTH="9" VPOS="1197" HPOS="1497"/>
+							<String ID="string_256" HPOS="1506" VPOS="1197" WIDTH="32" HEIGHT="26" WC="0.96" CONTENT="of"/>
+						</TextLine>
+						<TextLine ID="line_21" HPOS="235" VPOS="1232" WIDTH="1229" HEIGHT="35">
+							<String ID="string_257" HPOS="235" VPOS="1232" WIDTH="40" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="9" VPOS="1232" HPOS="275"/>
+							<String ID="string_258" HPOS="284" VPOS="1232" WIDTH="191" HEIGHT="32" WC="0.96" CONTENT="“center-right,”"/><SP WIDTH="9" VPOS="1232" HPOS="475"/>
+							<String ID="string_259" HPOS="484" VPOS="1232" WIDTH="128" HEIGHT="26" WC="0.96" CONTENT="dedicated"/><SP WIDTH="9" VPOS="1232" HPOS="612"/>
+							<String ID="string_260" HPOS="621" VPOS="1238" WIDTH="25" HEIGHT="21" WC="0.96" CONTENT="to"/><SP WIDTH="10" VPOS="1238" HPOS="646"/>
+							<String ID="string_261" HPOS="656" VPOS="1233" WIDTH="135" HEIGHT="33" WC="0.96" CONTENT="advancing"/><SP WIDTH="9" VPOS="1233" HPOS="791"/>
+							<String ID="string_262" HPOS="800" VPOS="1233" WIDTH="40" HEIGHT="26" WC="0.97" CONTENT="the"/><SP WIDTH="9" VPOS="1233" HPOS="840"/>
+							<String ID="string_263" HPOS="849" VPOS="1241" WIDTH="72" HEIGHT="19" WC="0.96" CONTENT="cause"/><SP WIDTH="9" VPOS="1241" HPOS="921"/>
+							<String ID="string_264" HPOS="930" VPOS="1234" WIDTH="31" HEIGHT="26" WC="0.96" CONTENT="of"/><SP WIDTH="5" VPOS="1234" HPOS="961"/>
+							<String ID="string_265" HPOS="966" VPOS="1235" WIDTH="150" HEIGHT="32" WC="0.96" CONTENT="democracy,"/><SP WIDTH="10" VPOS="1235" HPOS="1116"/>
+							<String ID="string_266" HPOS="1126" VPOS="1235" WIDTH="116" HEIGHT="31" WC="0.96" CONTENT="freedom,"/><SP WIDTH="10" VPOS="1235" HPOS="1242"/>
+							<String ID="string_267" HPOS="1252" VPOS="1237" WIDTH="48" HEIGHT="25" WC="0.96" CONTENT="and"/><SP WIDTH="9" VPOS="1237" HPOS="1300"/>
+							<String ID="string_268" HPOS="1309" VPOS="1236" WIDTH="50" HEIGHT="26" WC="0.96" CONTENT="free"/><SP WIDTH="10" VPOS="1236" HPOS="1359"/>
+							<String ID="string_269" HPOS="1369" VPOS="1237" WIDTH="95" HEIGHT="26" WC="0.96" CONTENT="market"/>
+						</TextLine>
+						<TextLine ID="line_22" HPOS="236" VPOS="1272" WIDTH="147" HEIGHT="26">
+							<String ID="string_270" HPOS="236" VPOS="1272" WIDTH="147" HEIGHT="26" WC="0.96" CONTENT="economics."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_7" HPOS="234" VPOS="1353" WIDTH="1220" HEIGHT="152">
+					<TextBlock ID="block_6" HPOS="234" VPOS="1353" WIDTH="1220" HEIGHT="152">
+						<TextLine ID="line_23" HPOS="335" VPOS="1353" WIDTH="1097" HEIGHT="34">
+							<String ID="string_271" HPOS="335" VPOS="1353" WIDTH="88" HEIGHT="26" WC="0.96" CONTENT="Before"/><SP WIDTH="9" VPOS="1353" HPOS="423"/>
+							<String ID="string_272" HPOS="432" VPOS="1353" WIDTH="38" HEIGHT="26" WC="0.96" CONTENT="his"/><SP WIDTH="9" VPOS="1353" HPOS="470"/>
+							<String ID="string_273" HPOS="479" VPOS="1353" WIDTH="169" HEIGHT="33" WC="0.96" CONTENT="appointment"/><SP WIDTH="8" VPOS="1353" HPOS="648"/>
+							<String ID="string_274" HPOS="656" VPOS="1359" WIDTH="25" HEIGHT="21" WC="0.96" CONTENT="to"/><SP WIDTH="9" VPOS="1359" HPOS="681"/>
+							<String ID="string_275" HPOS="690" VPOS="1354" WIDTH="41" HEIGHT="26" WC="0.96" CONTENT="the"/><SP WIDTH="9" VPOS="1354" HPOS="731"/>
+							<String ID="string_276" HPOS="740" VPOS="1354" WIDTH="109" HEIGHT="30" WC="0.96" CONTENT="Cabinet,"/><SP WIDTH="9" VPOS="1354" HPOS="849"/>
+							<String ID="string_277" HPOS="858" VPOS="1355" WIDTH="46" HEIGHT="25" WC="0.97" CONTENT="Mr."/><SP WIDTH="11" VPOS="1355" HPOS="904"/>
+							<String ID="string_278" HPOS="915" VPOS="1355" WIDTH="79" HEIGHT="32" WC="0.96" CONTENT="Kemp"/><SP WIDTH="9" VPOS="1355" HPOS="994"/>
+							<String ID="string_279" HPOS="1003" VPOS="1356" WIDTH="151" HEIGHT="31" WC="0.96" CONTENT="represented"/><SP WIDTH="8" VPOS="1356" HPOS="1154"/>
+							<String ID="string_280" HPOS="1162" VPOS="1356" WIDTH="40" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="9" VPOS="1356" HPOS="1202"/>
+							<String ID="string_281" HPOS="1211" VPOS="1356" WIDTH="100" HEIGHT="26" WC="0.96" CONTENT="Buffalo"/><SP WIDTH="9" VPOS="1356" HPOS="1311"/>
+							<String ID="string_282" HPOS="1320" VPOS="1365" WIDTH="55" HEIGHT="18" WC="0.96" CONTENT="area"/><SP WIDTH="9" VPOS="1365" HPOS="1375"/>
+							<String ID="string_283" HPOS="1384" VPOS="1358" WIDTH="48" HEIGHT="25" WC="0.96" CONTENT="and"/>
+						</TextLine>
+						<TextLine ID="line_24" HPOS="235" VPOS="1393" WIDTH="1219" HEIGHT="35">
+							<String ID="string_284" HPOS="235" VPOS="1393" WIDTH="109" HEIGHT="25" WC="0.96" CONTENT="Western"/><SP WIDTH="8" VPOS="1393" HPOS="344"/>
+							<String ID="string_285" HPOS="352" VPOS="1394" WIDTH="63" HEIGHT="24" WC="0.96" CONTENT="New"/><SP WIDTH="9" VPOS="1394" HPOS="415"/>
+							<String ID="string_286" HPOS="424" VPOS="1393" WIDTH="67" HEIGHT="26" WC="0.96" CONTENT="York"/><SP WIDTH="9" VPOS="1393" HPOS="491"/>
+							<String ID="string_287" HPOS="500" VPOS="1393" WIDTH="39" HEIGHT="26" WC="0.97" CONTENT="for"/><SP WIDTH="12" VPOS="1393" HPOS="539"/>
+							<String ID="string_288" HPOS="551" VPOS="1394" WIDTH="28" HEIGHT="25" WC="0.96" CONTENT="18"/><SP WIDTH="10" VPOS="1394" HPOS="579"/>
+							<String ID="string_289" HPOS="589" VPOS="1401" WIDTH="70" HEIGHT="24" WC="0.96" CONTENT="years"/><SP WIDTH="10" VPOS="1401" HPOS="659"/>
+							<String ID="string_290" HPOS="669" VPOS="1394" WIDTH="26" HEIGHT="26" WC="0.96" CONTENT="in"/><SP WIDTH="8" VPOS="1394" HPOS="695"/>
+							<String ID="string_291" HPOS="703" VPOS="1394" WIDTH="40" HEIGHT="26" WC="0.96" CONTENT="the"/><SP WIDTH="9" VPOS="1394" HPOS="743"/>
+							<String ID="string_292" HPOS="752" VPOS="1394" WIDTH="89" HEIGHT="26" WC="0.96" CONTENT="United"/><SP WIDTH="9" VPOS="1394" HPOS="841"/>
+							<String ID="string_293" HPOS="850" VPOS="1395" WIDTH="77" HEIGHT="25" WC="0.96" CONTENT="States"/><SP WIDTH="9" VPOS="1395" HPOS="927"/>
+							<String ID="string_294" HPOS="936" VPOS="1395" WIDTH="83" HEIGHT="26" WC="0.96" CONTENT="House"/><SP WIDTH="8" VPOS="1395" HPOS="1019"/>
+							<String ID="string_295" HPOS="1027" VPOS="1395" WIDTH="32" HEIGHT="25" WC="0.97" CONTENT="of"/><SP WIDTH="4" VPOS="1395" HPOS="1059"/>
+							<String ID="string_296" HPOS="1063" VPOS="1396" WIDTH="208" HEIGHT="32" WC="0.96" CONTENT="Representatives"/><SP WIDTH="10" VPOS="1396" HPOS="1271"/>
+							<String ID="string_297" HPOS="1281" VPOS="1396" WIDTH="63" HEIGHT="26" WC="0.96" CONTENT="from"/><SP WIDTH="13" VPOS="1396" HPOS="1344"/>
+							<String ID="string_298" HPOS="1357" VPOS="1397" WIDTH="58" HEIGHT="25" WC="0.96" CONTENT="1971"/><SP WIDTH="14" VPOS="1397" HPOS="1415"/>
+							<String ID="string_299" HPOS="1429" VPOS="1403" WIDTH="25" HEIGHT="20" WC="0.96" CONTENT="to"/>
+						</TextLine>
+						<TextLine ID="line_25" HPOS="237" VPOS="1433" WIDTH="1178" HEIGHT="34">
+							<String ID="string_300" HPOS="237" VPOS="1433" WIDTH="69" HEIGHT="25" WC="0.95" CONTENT="1989."/><SP WIDTH="20" VPOS="1433" HPOS="306"/>
+							<String ID="string_301" HPOS="326" VPOS="1433" WIDTH="36" HEIGHT="25" WC="0.95" CONTENT="He"/><SP WIDTH="10" VPOS="1433" HPOS="362"/>
+							<String ID="string_302" HPOS="372" VPOS="1433" WIDTH="85" HEIGHT="25" WC="0.96" CONTENT="served"/><SP WIDTH="10" VPOS="1433" HPOS="457"/>
+							<String ID="string_303" HPOS="467" VPOS="1433" WIDTH="38" HEIGHT="26" WC="0.96" CONTENT="for"/><SP WIDTH="9" VPOS="1433" HPOS="505"/>
+							<String ID="string_304" HPOS="514" VPOS="1441" WIDTH="76" HEIGHT="18" WC="0.96" CONTENT="seven"/><SP WIDTH="8" VPOS="1441" HPOS="590"/>
+							<String ID="string_305" HPOS="598" VPOS="1441" WIDTH="71" HEIGHT="24" WC="0.96" CONTENT="years"/><SP WIDTH="10" VPOS="1441" HPOS="669"/>
+							<String ID="string_306" HPOS="679" VPOS="1433" WIDTH="25" HEIGHT="26" WC="0.96" CONTENT="in"/><SP WIDTH="8" VPOS="1433" HPOS="704"/>
+							<String ID="string_307" HPOS="712" VPOS="1434" WIDTH="41" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="8" VPOS="1434" HPOS="753"/>
+							<String ID="string_308" HPOS="761" VPOS="1434" WIDTH="149" HEIGHT="33" WC="0.96" CONTENT="Republican"/><SP WIDTH="9" VPOS="1434" HPOS="910"/>
+							<String ID="string_309" HPOS="919" VPOS="1435" WIDTH="144" HEIGHT="32" WC="0.96" CONTENT="Leadership"/><SP WIDTH="8" VPOS="1435" HPOS="1063"/>
+							<String ID="string_310" HPOS="1071" VPOS="1442" WIDTH="27" HEIGHT="19" WC="0.96" CONTENT="as"/><SP WIDTH="9" VPOS="1442" HPOS="1098"/>
+							<String ID="string_311" HPOS="1107" VPOS="1435" WIDTH="130" HEIGHT="26" WC="0.96" CONTENT="Chairman"/><SP WIDTH="9" VPOS="1435" HPOS="1237"/>
+							<String ID="string_312" HPOS="1246" VPOS="1436" WIDTH="31" HEIGHT="25" WC="0.96" CONTENT="of"/><SP WIDTH="4" VPOS="1436" HPOS="1277"/>
+							<String ID="string_313" HPOS="1281" VPOS="1436" WIDTH="40" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="9" VPOS="1436" HPOS="1321"/>
+							<String ID="string_314" HPOS="1330" VPOS="1437" WIDTH="85" HEIGHT="25" WC="0.96" CONTENT="House"/>
+						</TextLine>
+						<TextLine ID="line_26" HPOS="234" VPOS="1473" WIDTH="476" HEIGHT="32">
+							<String ID="string_315" HPOS="234" VPOS="1473" WIDTH="150" HEIGHT="31" WC="0.96" CONTENT="Republican"/><SP WIDTH="10" VPOS="1473" HPOS="384"/>
+							<String ID="string_316" HPOS="394" VPOS="1473" WIDTH="146" HEIGHT="32" WC="0.96" CONTENT="Leadership"/><SP WIDTH="10" VPOS="1473" HPOS="540"/>
+							<String ID="string_317" HPOS="550" VPOS="1473" WIDTH="160" HEIGHT="26" WC="0.96" CONTENT="Conference."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_8" HPOS="235" VPOS="1552" WIDTH="1280" HEIGHT="191">
+					<TextBlock ID="block_7" HPOS="235" VPOS="1552" WIDTH="1280" HEIGHT="191">
+						<TextLine ID="line_27" HPOS="334" VPOS="1552" WIDTH="1146" HEIGHT="35">
+							<String ID="string_318" HPOS="334" VPOS="1552" WIDTH="59" HEIGHT="25" WC="0.96" CONTENT="Jack"/><SP WIDTH="9" VPOS="1552" HPOS="393"/>
+							<String ID="string_319" HPOS="402" VPOS="1553" WIDTH="78" HEIGHT="31" WC="0.96" CONTENT="Kemp"/><SP WIDTH="10" VPOS="1553" HPOS="480"/>
+							<String ID="string_320" HPOS="490" VPOS="1560" WIDTH="70" HEIGHT="18" WC="0.96" CONTENT="came"/><SP WIDTH="9" VPOS="1560" HPOS="560"/>
+							<String ID="string_321" HPOS="569" VPOS="1557" WIDTH="25" HEIGHT="21" WC="0.95" CONTENT="to"/><SP WIDTH="10" VPOS="1557" HPOS="594"/>
+							<String ID="string_322" HPOS="604" VPOS="1553" WIDTH="123" HEIGHT="32" WC="0.96" CONTENT="Congress"/><SP WIDTH="9" VPOS="1553" HPOS="727"/>
+							<String ID="string_323" HPOS="736" VPOS="1553" WIDTH="60" HEIGHT="26" WC="0.96" CONTENT="after"/><SP WIDTH="11" VPOS="1553" HPOS="796"/>
+							<String ID="string_324" HPOS="807" VPOS="1554" WIDTH="27" HEIGHT="25" WC="0.96" CONTENT="13"/><SP WIDTH="10" VPOS="1554" HPOS="834"/>
+							<String ID="string_325" HPOS="844" VPOS="1561" WIDTH="69" HEIGHT="24" WC="0.96" CONTENT="years"/><SP WIDTH="9" VPOS="1561" HPOS="913"/>
+							<String ID="string_326" HPOS="922" VPOS="1561" WIDTH="26" HEIGHT="19" WC="0.96" CONTENT="as"/><SP WIDTH="9" VPOS="1561" HPOS="948"/>
+							<String ID="string_327" HPOS="957" VPOS="1562" WIDTH="15" HEIGHT="17" WC="0.96" CONTENT="a"/><SP WIDTH="7" VPOS="1562" HPOS="972"/>
+							<String ID="string_328" HPOS="979" VPOS="1554" WIDTH="159" HEIGHT="32" WC="0.96" CONTENT="professional"/><SP WIDTH="11" VPOS="1554" HPOS="1138"/>
+							<String ID="string_329" HPOS="1149" VPOS="1554" WIDTH="100" HEIGHT="26" WC="0.96" CONTENT="football"/><SP WIDTH="10" VPOS="1554" HPOS="1249"/>
+							<String ID="string_330" HPOS="1259" VPOS="1555" WIDTH="163" HEIGHT="32" WC="0.96" CONTENT="quarterback."/><SP WIDTH="21" VPOS="1555" HPOS="1422"/>
+							<String ID="string_331" HPOS="1443" VPOS="1556" WIDTH="37" HEIGHT="24" WC="0.96" CONTENT="He"/>
+						</TextLine>
+						<TextLine ID="line_28" HPOS="235" VPOS="1592" WIDTH="1280" HEIGHT="33">
+							<String ID="string_332" HPOS="235" VPOS="1599" WIDTH="50" HEIGHT="18" WC="0.96" CONTENT="was"/><SP WIDTH="10" VPOS="1599" HPOS="285"/>
+							<String ID="string_333" HPOS="295" VPOS="1592" WIDTH="95" HEIGHT="31" WC="0.96" CONTENT="captain"/><SP WIDTH="8" VPOS="1592" HPOS="390"/>
+							<String ID="string_334" HPOS="398" VPOS="1592" WIDTH="30" HEIGHT="25" WC="0.97" CONTENT="of"/><SP WIDTH="5" VPOS="1592" HPOS="428"/>
+							<String ID="string_335" HPOS="433" VPOS="1592" WIDTH="40" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="10" VPOS="1592" HPOS="473"/>
+							<String ID="string_336" HPOS="483" VPOS="1592" WIDTH="49" HEIGHT="25" WC="0.96" CONTENT="San"/><SP WIDTH="9" VPOS="1592" HPOS="532"/>
+							<String ID="string_337" HPOS="541" VPOS="1592" WIDTH="81" HEIGHT="32" WC="0.96" CONTENT="Diego"/><SP WIDTH="10" VPOS="1592" HPOS="622"/>
+							<String ID="string_338" HPOS="632" VPOS="1593" WIDTH="119" HEIGHT="32" WC="0.96" CONTENT="Chargers"/><SP WIDTH="9" VPOS="1593" HPOS="751"/>
+							<String ID="string_339" HPOS="760" VPOS="1593" WIDTH="62" HEIGHT="26" WC="0.95" CONTENT="from"/><SP WIDTH="12" VPOS="1593" HPOS="822"/>
+							<String ID="string_340" HPOS="834" VPOS="1593" WIDTH="61" HEIGHT="26" WC="0.95" CONTENT="1960"/><SP WIDTH="9" VPOS="1593" HPOS="895"/>
+							<String ID="string_341" HPOS="904" VPOS="1598" WIDTH="25" HEIGHT="21" WC="0.96" CONTENT="to"/><SP WIDTH="13" VPOS="1598" HPOS="929"/>
+							<String ID="string_342" HPOS="942" VPOS="1594" WIDTH="60" HEIGHT="25" WC="0.96" CONTENT="1962"/><SP WIDTH="10" VPOS="1594" HPOS="1002"/>
+							<String ID="string_343" HPOS="1012" VPOS="1594" WIDTH="46" HEIGHT="25" WC="0.96" CONTENT="and"/><SP WIDTH="9" VPOS="1594" HPOS="1058"/>
+							<String ID="string_344" HPOS="1067" VPOS="1594" WIDTH="51" HEIGHT="25" WC="0.96" CONTENT="also"/><SP WIDTH="9" VPOS="1594" HPOS="1118"/>
+							<String ID="string_345" HPOS="1127" VPOS="1594" WIDTH="32" HEIGHT="25" WC="0.96" CONTENT="of"/><SP WIDTH="4" VPOS="1594" HPOS="1159"/>
+							<String ID="string_346" HPOS="1163" VPOS="1594" WIDTH="40" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="9" VPOS="1594" HPOS="1203"/>
+							<String ID="string_347" HPOS="1212" VPOS="1594" WIDTH="99" HEIGHT="26" WC="0.96" CONTENT="Buffalo"/><SP WIDTH="10" VPOS="1594" HPOS="1311"/>
+							<String ID="string_348" HPOS="1321" VPOS="1595" WIDTH="71" HEIGHT="29" WC="0.96" CONTENT="Bills,"/><SP WIDTH="10" VPOS="1595" HPOS="1392"/>
+							<String ID="string_349" HPOS="1402" VPOS="1595" WIDTH="40" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="11" VPOS="1595" HPOS="1442"/>
+							<String ID="string_350" HPOS="1453" VPOS="1600" WIDTH="62" HEIGHT="20" WC="0.94" CONTENT="team"/>
+						</TextLine>
+						<TextLine ID="line_29" HPOS="235" VPOS="1631" WIDTH="1246" HEIGHT="34">
+							<String ID="string_351" HPOS="235" VPOS="1631" WIDTH="30" HEIGHT="25" WC="0.96" CONTENT="he"/><SP WIDTH="10" VPOS="1631" HPOS="265"/>
+							<String ID="string_352" HPOS="275" VPOS="1631" WIDTH="87" HEIGHT="32" WC="0.96" CONTENT="helped"/><SP WIDTH="10" VPOS="1631" HPOS="362"/>
+							<String ID="string_353" HPOS="372" VPOS="1632" WIDTH="53" HEIGHT="25" WC="0.96" CONTENT="lead"/><SP WIDTH="8" VPOS="1632" HPOS="425"/>
+							<String ID="string_354" HPOS="433" VPOS="1637" WIDTH="25" HEIGHT="20" WC="0.96" CONTENT="to"/><SP WIDTH="9" VPOS="1637" HPOS="458"/>
+							<String ID="string_355" HPOS="467" VPOS="1632" WIDTH="40" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="10" VPOS="1632" HPOS="507"/>
+							<String ID="string_356" HPOS="517" VPOS="1632" WIDTH="132" HEIGHT="26" WC="0.96" CONTENT="American"/><SP WIDTH="8" VPOS="1632" HPOS="649"/>
+							<String ID="string_357" HPOS="657" VPOS="1633" WIDTH="110" HEIGHT="25" WC="0.96" CONTENT="Football"/><SP WIDTH="9" VPOS="1633" HPOS="767"/>
+							<String ID="string_358" HPOS="776" VPOS="1633" WIDTH="95" HEIGHT="32" WC="0.96" CONTENT="League"/><SP WIDTH="8" VPOS="1633" HPOS="871"/>
+							<String ID="string_359" HPOS="879" VPOS="1633" WIDTH="183" HEIGHT="32" WC="0.96" CONTENT="championship"/><SP WIDTH="9" VPOS="1633" HPOS="1062"/>
+							<String ID="string_360" HPOS="1071" VPOS="1633" WIDTH="24" HEIGHT="26" WC="0.96" CONTENT="in"/><SP WIDTH="13" VPOS="1633" HPOS="1095"/>
+							<String ID="string_361" HPOS="1108" VPOS="1634" WIDTH="61" HEIGHT="25" WC="0.96" CONTENT="1964"/><SP WIDTH="10" VPOS="1634" HPOS="1169"/>
+							<String ID="string_362" HPOS="1179" VPOS="1633" WIDTH="46" HEIGHT="26" WC="0.96" CONTENT="and"/><SP WIDTH="13" VPOS="1633" HPOS="1225"/>
+							<String ID="string_363" HPOS="1238" VPOS="1634" WIDTH="60" HEIGHT="25" WC="0.96" CONTENT="1965"/><SP WIDTH="11" VPOS="1634" HPOS="1298"/>
+							<String ID="string_364" HPOS="1309" VPOS="1634" WIDTH="72" HEIGHT="25" WC="0.96" CONTENT="when"/><SP WIDTH="9" VPOS="1634" HPOS="1381"/>
+							<String ID="string_365" HPOS="1390" VPOS="1634" WIDTH="30" HEIGHT="25" WC="0.96" CONTENT="he"/><SP WIDTH="11" VPOS="1634" HPOS="1420"/>
+							<String ID="string_366" HPOS="1431" VPOS="1642" WIDTH="50" HEIGHT="17" WC="0.96" CONTENT="was"/>
+						</TextLine>
+						<TextLine ID="line_30" HPOS="236" VPOS="1671" WIDTH="1264" HEIGHT="34">
+							<String ID="string_367" HPOS="236" VPOS="1671" WIDTH="87" HEIGHT="25" WC="0.96" CONTENT="named"/><SP WIDTH="9" VPOS="1671" HPOS="323"/>
+							<String ID="string_368" HPOS="332" VPOS="1671" WIDTH="38" HEIGHT="25" WC="0.93" CONTENT="the"/><SP WIDTH="11" VPOS="1671" HPOS="370"/>
+							<String ID="string_369" HPOS="381" VPOS="1671" WIDTH="107" HEIGHT="32" WC="0.93" CONTENT="league’s"/><SP WIDTH="10" VPOS="1671" HPOS="488"/>
+							<String ID="string_370" HPOS="498" VPOS="1676" WIDTH="65" HEIGHT="21" WC="0.96" CONTENT="most"/><SP WIDTH="9" VPOS="1676" HPOS="563"/>
+							<String ID="string_371" HPOS="572" VPOS="1672" WIDTH="112" HEIGHT="26" WC="0.96" CONTENT="valuable"/><SP WIDTH="9" VPOS="1672" HPOS="684"/>
+							<String ID="string_372" HPOS="693" VPOS="1672" WIDTH="88" HEIGHT="32" WC="0.96" CONTENT="player."/><SP WIDTH="19" VPOS="1672" HPOS="781"/>
+							<String ID="string_373" HPOS="800" VPOS="1673" WIDTH="37" HEIGHT="25" WC="0.96" CONTENT="He"/><SP WIDTH="8" VPOS="1673" HPOS="837"/>
+							<String ID="string_374" HPOS="845" VPOS="1673" WIDTH="52" HEIGHT="25" WC="0.96" CONTENT="also"/><SP WIDTH="9" VPOS="1673" HPOS="897"/>
+							<String ID="string_375" HPOS="906" VPOS="1672" WIDTH="148" HEIGHT="26" WC="0.96" CONTENT="co-founded"/><SP WIDTH="8" VPOS="1672" HPOS="1054"/>
+							<String ID="string_376" HPOS="1062" VPOS="1673" WIDTH="39" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="9" VPOS="1673" HPOS="1101"/>
+							<String ID="string_377" HPOS="1110" VPOS="1673" WIDTH="61" HEIGHT="25" WC="0.96" CONTENT="AFL"/><SP WIDTH="11" VPOS="1673" HPOS="1171"/>
+							<String ID="string_378" HPOS="1182" VPOS="1673" WIDTH="95" HEIGHT="32" WC="0.96" CONTENT="Players"/><SP WIDTH="9" VPOS="1673" HPOS="1277"/>
+							<String ID="string_379" HPOS="1286" VPOS="1674" WIDTH="158" HEIGHT="25" WC="0.96" CONTENT="Association"/><SP WIDTH="9" VPOS="1674" HPOS="1444"/>
+							<String ID="string_380" HPOS="1453" VPOS="1674" WIDTH="47" HEIGHT="24" WC="0.96" CONTENT="and"/>
+						</TextLine>
+						<TextLine ID="line_31" HPOS="235" VPOS="1710" WIDTH="430" HEIGHT="33">
+							<String ID="string_381" HPOS="235" VPOS="1718" WIDTH="50" HEIGHT="18" WC="0.96" CONTENT="was"/><SP WIDTH="11" VPOS="1718" HPOS="285"/>
+							<String ID="string_382" HPOS="296" VPOS="1710" WIDTH="48" HEIGHT="26" WC="0.96" CONTENT="five"/><SP WIDTH="10" VPOS="1710" HPOS="344"/>
+							<String ID="string_383" HPOS="354" VPOS="1711" WIDTH="70" HEIGHT="25" WC="0.96" CONTENT="times"/><SP WIDTH="9" VPOS="1711" HPOS="424"/>
+							<String ID="string_384" HPOS="433" VPOS="1711" WIDTH="94" HEIGHT="25" WC="0.96" CONTENT="elected"/><SP WIDTH="9" VPOS="1711" HPOS="527"/>
+							<String ID="string_385" HPOS="536" VPOS="1711" WIDTH="129" HEIGHT="32" WC="0.96" CONTENT="president."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_9" HPOS="236" VPOS="1791" WIDTH="1279" HEIGHT="148">
+					<TextBlock ID="block_8" HPOS="236" VPOS="1791" WIDTH="1279" HEIGHT="148">
+						<TextLine ID="line_32" HPOS="335" VPOS="1791" WIDTH="1109" HEIGHT="32">
+							<String ID="string_386" HPOS="335" VPOS="1791" WIDTH="45" HEIGHT="24" WC="0.96" CONTENT="Mr."/><SP WIDTH="11" VPOS="1791" HPOS="380"/>
+							<String ID="string_387" HPOS="391" VPOS="1791" WIDTH="86" HEIGHT="31" WC="0.96" CONTENT="Kemp,"/><SP WIDTH="10" VPOS="1791" HPOS="477"/>
+							<String ID="string_388" HPOS="487" VPOS="1791" WIDTH="61" HEIGHT="25" WC="0.96" CONTENT="born"/><SP WIDTH="9" VPOS="1791" HPOS="548"/>
+							<String ID="string_389" HPOS="557" VPOS="1791" WIDTH="48" HEIGHT="25" WC="0.96" CONTENT="and"/><SP WIDTH="9" VPOS="1791" HPOS="605"/>
+							<String ID="string_390" HPOS="614" VPOS="1791" WIDTH="79" HEIGHT="25" WC="0.96" CONTENT="raised"/><SP WIDTH="10" VPOS="1791" HPOS="693"/>
+							<String ID="string_391" HPOS="703" VPOS="1791" WIDTH="24" HEIGHT="25" WC="0.96" CONTENT="in"/><SP WIDTH="9" VPOS="1791" HPOS="727"/>
+							<String ID="string_392" HPOS="736" VPOS="1791" WIDTH="48" HEIGHT="25" WC="0.96" CONTENT="Los"/><SP WIDTH="9" VPOS="1791" HPOS="784"/>
+							<String ID="string_393" HPOS="793" VPOS="1791" WIDTH="114" HEIGHT="32" WC="0.96" CONTENT="Angeles,"/><SP WIDTH="10" VPOS="1791" HPOS="907"/>
+							<String ID="string_394" HPOS="917" VPOS="1792" WIDTH="20" HEIGHT="25" WC="0.96" CONTENT="is"/><SP WIDTH="10" VPOS="1792" HPOS="937"/>
+							<String ID="string_395" HPOS="947" VPOS="1791" WIDTH="99" HEIGHT="25" WC="0.96" CONTENT="married"/><SP WIDTH="8" VPOS="1791" HPOS="1046"/>
+							<String ID="string_396" HPOS="1054" VPOS="1796" WIDTH="25" HEIGHT="20" WC="0.96" CONTENT="to"/><SP WIDTH="9" VPOS="1796" HPOS="1079"/>
+							<String ID="string_397" HPOS="1088" VPOS="1791" WIDTH="39" HEIGHT="25" WC="0.96" CONTENT="the"/><SP WIDTH="10" VPOS="1791" HPOS="1127"/>
+							<String ID="string_398" HPOS="1137" VPOS="1791" WIDTH="89" HEIGHT="25" WC="0.96" CONTENT="former"/><SP WIDTH="7" VPOS="1791" HPOS="1226"/>
+							<String ID="string_399" HPOS="1233" VPOS="1792" WIDTH="91" HEIGHT="25" WC="0.96" CONTENT="Joanne"/><SP WIDTH="10" VPOS="1792" HPOS="1324"/>
+							<String ID="string_400" HPOS="1334" VPOS="1792" WIDTH="70" HEIGHT="25" WC="0.96" CONTENT="Main"/><SP WIDTH="9" VPOS="1792" HPOS="1404"/>
+							<String ID="string_401" HPOS="1413" VPOS="1792" WIDTH="31" HEIGHT="25" WC="0.96" CONTENT="of"/>
+						</TextLine>
+						<TextLine ID="line_33" HPOS="236" VPOS="1829" WIDTH="1279" HEIGHT="34">
+							<String ID="string_402" HPOS="236" VPOS="1829" WIDTH="119" HEIGHT="29" WC="0.96" CONTENT="Fillmore,"/><SP WIDTH="10" VPOS="1829" HPOS="355"/>
+							<String ID="string_403" HPOS="365" VPOS="1829" WIDTH="140" HEIGHT="26" WC="0.96" CONTENT="California."/><SP WIDTH="19" VPOS="1829" HPOS="505"/>
+							<String ID="string_404" HPOS="524" VPOS="1830" WIDTH="65" HEIGHT="25" WC="0.97" CONTENT="Both"/><SP WIDTH="9" VPOS="1830" HPOS="589"/>
+							<String ID="string_405" HPOS="598" VPOS="1830" WIDTH="59" HEIGHT="25" WC="0.96" CONTENT="Jack"/><SP WIDTH="8" VPOS="1830" HPOS="657"/>
+							<String ID="string_406" HPOS="665" VPOS="1830" WIDTH="48" HEIGHT="26" WC="0.96" CONTENT="and"/><SP WIDTH="8" VPOS="1830" HPOS="713"/>
+							<String ID="string_407" HPOS="721" VPOS="1831" WIDTH="90" HEIGHT="25" WC="0.96" CONTENT="Joanne"/><SP WIDTH="9" VPOS="1831" HPOS="811"/>
+							<String ID="string_408" HPOS="820" VPOS="1838" WIDTH="39" HEIGHT="18" WC="0.96" CONTENT="are"/><SP WIDTH="9" VPOS="1838" HPOS="859"/>
+							<String ID="string_409" HPOS="868" VPOS="1831" WIDTH="124" HEIGHT="32" WC="0.96" CONTENT="graduates"/><SP WIDTH="8" VPOS="1831" HPOS="992"/>
+							<String ID="string_410" HPOS="1000" VPOS="1830" WIDTH="30" HEIGHT="26" WC="0.96" CONTENT="of"/><SP WIDTH="5" VPOS="1830" HPOS="1030"/>
+							<String ID="string_411" HPOS="1035" VPOS="1831" WIDTH="140" HEIGHT="25" WC="0.96" CONTENT="Occidental"/><SP WIDTH="10" VPOS="1831" HPOS="1175"/>
+							<String ID="string_412" HPOS="1185" VPOS="1831" WIDTH="108" HEIGHT="32" WC="0.96" CONTENT="College."/><SP WIDTH="18" VPOS="1831" HPOS="1293"/>
+							<String ID="string_413" HPOS="1311" VPOS="1831" WIDTH="68" HEIGHT="31" WC="0.97" CONTENT="They"/><SP WIDTH="10" VPOS="1831" HPOS="1379"/>
+							<String ID="string_414" HPOS="1389" VPOS="1832" WIDTH="62" HEIGHT="24" WC="0.96" CONTENT="have"/><SP WIDTH="11" VPOS="1832" HPOS="1451"/>
+							<String ID="string_415" HPOS="1462" VPOS="1831" WIDTH="53" HEIGHT="25" WC="0.96" CONTENT="four"/>
+						</TextLine>
+						<TextLine ID="line_34" HPOS="236" VPOS="1868" WIDTH="1190" HEIGHT="34">
+							<String ID="string_416" HPOS="236" VPOS="1869" WIDTH="114" HEIGHT="28" WC="0.96" CONTENT="children,"/><SP WIDTH="9" VPOS="1869" HPOS="350"/>
+							<String ID="string_417" HPOS="359" VPOS="1868" WIDTH="97" HEIGHT="32" WC="0.96" CONTENT="Jeffrey,"/><SP WIDTH="10" VPOS="1868" HPOS="456"/>
+							<String ID="string_418" HPOS="466" VPOS="1869" WIDTH="114" HEIGHT="30" WC="0.96" CONTENT="Jennifer,"/><SP WIDTH="10" VPOS="1869" HPOS="580"/>
+							<String ID="string_419" HPOS="590" VPOS="1870" WIDTH="82" HEIGHT="25" WC="0.96" CONTENT="Judith"/><SP WIDTH="9" VPOS="1870" HPOS="672"/>
+							<String ID="string_420" HPOS="681" VPOS="1870" WIDTH="47" HEIGHT="25" WC="0.96" CONTENT="and"/><SP WIDTH="8" VPOS="1870" HPOS="728"/>
+							<String ID="string_421" HPOS="736" VPOS="1870" WIDTH="87" HEIGHT="29" WC="0.96" CONTENT="James,"/><SP WIDTH="9" VPOS="1870" HPOS="823"/>
+							<String ID="string_422" HPOS="832" VPOS="1870" WIDTH="85" HEIGHT="25" WC="0.96" CONTENT="eleven"/><SP WIDTH="9" VPOS="1870" HPOS="917"/>
+							<String ID="string_423" HPOS="926" VPOS="1870" WIDTH="186" HEIGHT="32" WC="0.96" CONTENT="grandchildren,"/><SP WIDTH="9" VPOS="1870" HPOS="1112"/>
+							<String ID="string_424" HPOS="1121" VPOS="1870" WIDTH="47" HEIGHT="25" WC="0.96" CONTENT="and"/><SP WIDTH="9" VPOS="1870" HPOS="1168"/>
+							<String ID="string_425" HPOS="1177" VPOS="1870" WIDTH="78" HEIGHT="25" WC="0.96" CONTENT="reside"/><SP WIDTH="10" VPOS="1870" HPOS="1255"/>
+							<String ID="string_426" HPOS="1265" VPOS="1871" WIDTH="24" HEIGHT="24" WC="0.96" CONTENT="in"/><SP WIDTH="9" VPOS="1871" HPOS="1289"/>
+							<String ID="string_427" HPOS="1298" VPOS="1871" WIDTH="128" HEIGHT="28" WC="0.96" CONTENT="Bethesda,"/>
+						</TextLine>
+						<TextLine ID="line_35" HPOS="237" VPOS="1908" WIDTH="132" HEIGHT="31">
+							<String ID="string_428" HPOS="237" VPOS="1908" WIDTH="132" HEIGHT="31" WC="0.96" CONTENT="Maryland."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_10" HPOS="130" VPOS="2034" WIDTH="954" HEIGHT="77">
+					<TextBlock ID="block_9" HPOS="130" VPOS="2034" WIDTH="954" HEIGHT="77">
+						<TextLine ID="line_36" HPOS="130" VPOS="2034" WIDTH="911" HEIGHT="32">
+							<String ID="string_429" HPOS="130" VPOS="2034" WIDTH="138" HEIGHT="21" WC="0.96" CONTENT="Authorized"/><SP WIDTH="8" VPOS="2034" HPOS="268"/>
+							<String ID="string_430" HPOS="276" VPOS="2035" WIDTH="44" HEIGHT="21" WC="0.97" CONTENT="and"/><SP WIDTH="9" VPOS="2035" HPOS="320"/>
+							<String ID="string_431" HPOS="329" VPOS="2036" WIDTH="52" HEIGHT="28" WC="0.96" CONTENT="paid"/><SP WIDTH="10" VPOS="2036" HPOS="381"/>
+							<String ID="string_432" HPOS="391" VPOS="2036" WIDTH="32" HEIGHT="21" WC="0.96" CONTENT="for"/><SP WIDTH="8" VPOS="2036" HPOS="423"/>
+							<String ID="string_433" HPOS="431" VPOS="2036" WIDTH="28" HEIGHT="28" WC="0.93" CONTENT="by"/><SP WIDTH="10" VPOS="2036" HPOS="459"/>
+							<String ID="string_434" HPOS="469" VPOS="2036" WIDTH="147" HEIGHT="29" WC="0.89" CONTENT="Dole/Kemp"/><SP WIDTH="10" VPOS="2036" HPOS="616"/>
+							<String ID="string_435" HPOS="626" VPOS="2037" WIDTH="39" HEIGHT="23" WC="0.55" CONTENT="‘96,"/><SP WIDTH="10" VPOS="2037" HPOS="665"/>
+							<String ID="string_436" HPOS="675" VPOS="2037" WIDTH="80" HEIGHT="21" WC="0.93" CONTENT="Robert"/><SP WIDTH="8" VPOS="2037" HPOS="755"/>
+							<String ID="string_437" HPOS="763" VPOS="2037" WIDTH="21" HEIGHT="22" WC="0.93" CONTENT="E."/><SP WIDTH="9" VPOS="2037" HPOS="784"/>
+							<String ID="string_438" HPOS="793" VPOS="2037" WIDTH="129" HEIGHT="29" WC="0.92" CONTENT="Lighthizer,"/><SP WIDTH="9" VPOS="2037" HPOS="922"/>
+							<String ID="string_439" HPOS="931" VPOS="2037" WIDTH="110" HEIGHT="27" WC="0.96" CONTENT="Treasurer"/>
+						</TextLine>
+						<TextLine ID="line_37" HPOS="130" VPOS="2079" WIDTH="954" HEIGHT="32">
+							<String ID="string_440" HPOS="130" VPOS="2080" WIDTH="41" HEIGHT="21" WC="0.96" CONTENT="810"/><SP WIDTH="9" VPOS="2080" HPOS="171"/>
+							<String ID="string_441" HPOS="180" VPOS="2079" WIDTH="52" HEIGHT="22" WC="0.96" CONTENT="First"/><SP WIDTH="7" VPOS="2079" HPOS="232"/>
+							<String ID="string_442" HPOS="239" VPOS="2080" WIDTH="74" HEIGHT="24" WC="0.90" CONTENT="Street,"/><SP WIDTH="9" VPOS="2080" HPOS="313"/>
+							<String ID="string_443" HPOS="322" VPOS="2081" WIDTH="117" HEIGHT="22" WC="0.93" CONTENT="Northeast"/><SP WIDTH="10" VPOS="2081" HPOS="439"/>
+							<String ID="string_444" HPOS="449" VPOS="2087" WIDTH="10" HEIGHT="10" WC="0.69" CONTENT="*"/><SP WIDTH="10" VPOS="2087" HPOS="459"/>
+							<String ID="string_445" HPOS="469" VPOS="2082" WIDTH="61" HEIGHT="21" WC="0.96" CONTENT="Suite"/><SP WIDTH="9" VPOS="2082" HPOS="530"/>
+							<String ID="string_446" HPOS="539" VPOS="2082" WIDTH="40" HEIGHT="21" WC="0.93" CONTENT="300"/><SP WIDTH="11" VPOS="2082" HPOS="579"/>
+							<String ID="string_447" HPOS="590" VPOS="2087" WIDTH="10" HEIGHT="11" WC="0.35" CONTENT="¢"/><SP WIDTH="12" VPOS="2087" HPOS="600"/>
+							<String ID="string_448" HPOS="612" VPOS="2082" WIDTH="151" HEIGHT="29" WC="0.96" CONTENT="Washington,"/><SP WIDTH="9" VPOS="2082" HPOS="763"/>
+							<String ID="string_449" HPOS="772" VPOS="2083" WIDTH="38" HEIGHT="21" WC="0.96" CONTENT="DC"/><SP WIDTH="8" VPOS="2083" HPOS="810"/>
+							<String ID="string_450" HPOS="818" VPOS="2083" WIDTH="68" HEIGHT="20" WC="0.93" CONTENT="20002"/><SP WIDTH="10" VPOS="2083" HPOS="886"/>
+							<String ID="string_451" HPOS="896" VPOS="2087" WIDTH="10" HEIGHT="11" WC="0.19" CONTENT="¢"/><SP WIDTH="11" VPOS="2087" HPOS="906"/>
+							<String ID="string_452" HPOS="917" VPOS="2082" WIDTH="57" HEIGHT="25" WC="0.96" CONTENT="(202)"/><SP WIDTH="8" VPOS="2082" HPOS="974"/>
+							<String ID="string_453" HPOS="982" VPOS="2084" WIDTH="102" HEIGHT="20" WC="0.96" CONTENT="414-6400"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
