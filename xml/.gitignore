@@ -1,0 +1,5 @@
+# Alto XML files are not very useful, so include just a sample of the generated ones.
+# Ignore all
+*.xml
+# Except for these
+!*Dole*

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_7wubho8r_input.PPM</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.1</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="704" HEIGHT="1668" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="704" HEIGHT="1668">
+				<ComposedBlock ID="cblock_0" HPOS="93" VPOS="234" WIDTH="478" HEIGHT="174">
+					<TextBlock ID="block_0" HPOS="93" VPOS="234" WIDTH="478" HEIGHT="174">
+						<TextLine ID="line_0" HPOS="202" VPOS="234" WIDTH="295" HEIGHT="76">
+							<String ID="string_0" HPOS="202" VPOS="234" WIDTH="295" HEIGHT="76" WC="0.95" CONTENT="California"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="93" VPOS="331" WIDTH="478" HEIGHT="77">
+							<String ID="string_1" HPOS="93" VPOS="331" WIDTH="331" HEIGHT="77" WC="0.96" CONTENT="Republican"/><SP WIDTH="21" VPOS="331" HPOS="424"/>
+							<String ID="string_2" HPOS="445" VPOS="334" WIDTH="126" HEIGHT="73" WC="0.96" CONTENT="Part"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_1" HPOS="92" VPOS="330" WIDTH="606" HEIGHT="586"></Illustration>
+				<ComposedBlock ID="cblock_2" HPOS="153" VPOS="1325" WIDTH="402" HEIGHT="145">
+					<TextBlock ID="block_1" HPOS="153" VPOS="1325" WIDTH="402" HEIGHT="145">
+						<TextLine ID="line_2" HPOS="160" VPOS="1325" WIDTH="391" HEIGHT="48">
+							<String ID="string_3" HPOS="160" VPOS="1329" WIDTH="72" HEIGHT="36" WC="0.96" CONTENT="1903"/><SP WIDTH="13" VPOS="1329" HPOS="232"/>
+							<String ID="string_4" HPOS="245" VPOS="1328" WIDTH="73" HEIGHT="36" WC="0.96" CONTENT="West"/><SP WIDTH="10" VPOS="1328" HPOS="318"/>
+							<String ID="string_5" HPOS="328" VPOS="1325" WIDTH="135" HEIGHT="48" WC="0.96" CONTENT="Magnolia"/><SP WIDTH="10" VPOS="1325" HPOS="463"/>
+							<String ID="string_6" HPOS="473" VPOS="1325" WIDTH="78" HEIGHT="38" WC="0.91" CONTENT="Blvd."/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="153" VPOS="1375" WIDTH="402" HEIGHT="49">
+							<String ID="string_7" HPOS="153" VPOS="1376" WIDTH="137" HEIGHT="44" WC="0.96" CONTENT="Burbank,"/><SP WIDTH="11" VPOS="1376" HPOS="290"/>
+							<String ID="string_8" HPOS="301" VPOS="1375" WIDTH="149" HEIGHT="49" WC="0.96" CONTENT="California"/><SP WIDTH="10" VPOS="1375" HPOS="450"/>
+							<String ID="string_9" HPOS="460" VPOS="1376" WIDTH="95" HEIGHT="37" WC="0.96" CONTENT="91506"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="231" VPOS="1425" WIDTH="249" HEIGHT="45">
+							<String ID="string_10" HPOS="231" VPOS="1425" WIDTH="80" HEIGHT="45" WC="0.96" CONTENT="(818)"/><SP WIDTH="14" VPOS="1425" HPOS="311"/>
+							<String ID="string_11" HPOS="325" VPOS="1427" WIDTH="155" HEIGHT="39" WC="0.80" CONTENT="841-5210"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

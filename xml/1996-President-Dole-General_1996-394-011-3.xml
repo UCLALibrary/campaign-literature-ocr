@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_or4s42i8_input.PPM</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.1</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1088" HEIGHT="1700" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1088" HEIGHT="1700">
+				<ComposedBlock ID="cblock_0" HPOS="953" VPOS="93" WIDTH="89" HEIGHT="1462">
+					<TextBlock ID="block_0" HPOS="953" VPOS="93" WIDTH="89" HEIGHT="1462">
+						<TextLine ID="line_0" HPOS="1022" VPOS="1396" WIDTH="20" HEIGHT="159">
+							<String ID="string_0" HPOS="1027" VPOS="1396" WIDTH="15" HEIGHT="38" WC="0.96" CONTENT="Non"/><SP WIDTH="-16" VPOS="1396" HPOS="1042"/>
+							<String ID="string_1" HPOS="1026" VPOS="1448" WIDTH="16" HEIGHT="53" WC="0.96" CONTENT="Profit"/><SP WIDTH="-20" VPOS="1448" HPOS="1042"/>
+							<String ID="string_2" HPOS="1022" VPOS="1514" WIDTH="20" HEIGHT="41" WC="0.96" CONTENT="Org."/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="998" VPOS="1397" WIDTH="20" HEIGHT="134">
+							<String ID="string_3" HPOS="1003" VPOS="1397" WIDTH="15" HEIGHT="42" WC="0.95" CONTENT="U.S."/><SP WIDTH="-20" VPOS="1397" HPOS="1018"/>
+							<String ID="string_4" HPOS="998" VPOS="1453" WIDTH="19" HEIGHT="78" WC="0.96" CONTENT="Postage"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="976" VPOS="93" WIDTH="21" HEIGHT="1352">
+							<String ID="string_5" HPOS="976" VPOS="93" WIDTH="21" HEIGHT="180" WC="0.95" CONTENT="CALIFORNIA"/><SP WIDTH="-21" VPOS="93" HPOS="997"/>
+							<String ID="string_6" HPOS="976" VPOS="285" WIDTH="21" HEIGHT="188" WC="0.95" CONTENT="REPUBLICAN"/><SP WIDTH="-21" VPOS="285" HPOS="997"/>
+							<String ID="string_7" HPOS="976" VPOS="485" WIDTH="21" HEIGHT="92" WC="0.96" CONTENT="PARTY"/><SP WIDTH="-19" VPOS="485" HPOS="997"/>
+							<String ID="string_8" HPOS="978" VPOS="1397" WIDTH="16" HEIGHT="48" WC="0.96" CONTENT="PAID"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="953" VPOS="1393" WIDTH="17" HEIGHT="94">
+							<String ID="string_9" HPOS="953" VPOS="1393" WIDTH="17" HEIGHT="94" WC="0.96" CONTENT="California"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="900" VPOS="94" WIDTH="61" HEIGHT="1468">
+					<TextBlock ID="block_1" HPOS="900" VPOS="94" WIDTH="61" HEIGHT="1468">
+						<TextLine ID="line_4" HPOS="925" VPOS="96" WIDTH="36" HEIGHT="1466">
+							<String ID="string_10" HPOS="940" VPOS="96" WIDTH="21" HEIGHT="56" WC="0.93" CONTENT="1903"/><SP WIDTH="-21" VPOS="96" HPOS="961"/>
+							<String ID="string_11" HPOS="940" VPOS="163" WIDTH="21" HEIGHT="28" WC="0.92" CONTENT="W."/><SP WIDTH="-27" VPOS="163" HPOS="961"/>
+							<String ID="string_12" HPOS="934" VPOS="204" WIDTH="27" HEIGHT="120" WC="0.96" CONTENT="Magnolia"/><SP WIDTH="-21" VPOS="204" HPOS="961"/>
+							<String ID="string_13" HPOS="940" VPOS="335" WIDTH="21" HEIGHT="134" WC="0.96" CONTENT="Boulevard"/><SP WIDTH="-34" VPOS="335" HPOS="961"/>
+							<String ID="string_14" HPOS="927" VPOS="1393" WIDTH="19" HEIGHT="109" WC="0.96" CONTENT="Republican"/><SP WIDTH="-21" VPOS="1393" HPOS="946"/>
+							<String ID="string_15" HPOS="925" VPOS="1510" WIDTH="20" HEIGHT="52" WC="0.93" CONTENT="Party"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="900" VPOS="94" WIDTH="30" HEIGHT="1468">
+							<String ID="string_16" HPOS="900" VPOS="94" WIDTH="24" HEIGHT="119" WC="0.95" CONTENT="Burbank,"/><SP WIDTH="-20" VPOS="94" HPOS="924"/>
+							<String ID="string_17" HPOS="904" VPOS="225" WIDTH="21" HEIGHT="39" WC="0.92" CONTENT="CA"/><SP WIDTH="-21" VPOS="225" HPOS="925"/>
+							<String ID="string_18" HPOS="904" VPOS="282" WIDTH="21" HEIGHT="75" WC="0.96" CONTENT="91506"/><SP WIDTH="0" VPOS="282" HPOS="925"/>
+							<String ID="string_19" HPOS="925" VPOS="1557" WIDTH="5" HEIGHT="5" WC="0.26" CONTENT="-"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="910" VPOS="1392" WIDTH="9" HEIGHT="170"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="696" VPOS="108" WIDTH="20" HEIGHT="359"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="664" VPOS="105" WIDTH="35" HEIGHT="361"></GraphicalElement >
+				<ComposedBlock ID="cblock_5" HPOS="568" VPOS="147" WIDTH="78" HEIGHT="290">
+					<TextBlock ID="block_2" HPOS="568" VPOS="147" WIDTH="78" HEIGHT="290">
+						<TextLine ID="line_6" HPOS="568" VPOS="147" WIDTH="78" HEIGHT="290">
+							<String ID="string_20" HPOS="568" VPOS="147" WIDTH="78" HEIGHT="290" WC="0.96" CONTENT="VOTE"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_6" HPOS="418" VPOS="152" WIDTH="137" HEIGHT="286">
+					<TextBlock ID="block_3" HPOS="418" VPOS="152" WIDTH="137" HEIGHT="286">
+						<TextLine ID="line_7" HPOS="507" VPOS="156" WIDTH="48" HEIGHT="281">
+							<String ID="string_21" HPOS="518" VPOS="156" WIDTH="37" HEIGHT="169" WC="0.96" CONTENT="Election"/><SP WIDTH="-48" VPOS="156" HPOS="555"/>
+							<String ID="string_22" HPOS="507" VPOS="347" WIDTH="45" HEIGHT="90" WC="0.96" CONTENT="Day"/>
+						</TextLine>
+						<TextLine ID="line_8" HPOS="458" VPOS="200" WIDTH="48" HEIGHT="190">
+							<String ID="string_23" HPOS="458" VPOS="200" WIDTH="48" HEIGHT="190" WC="0.96" CONTENT="Tuesday"/>
+						</TextLine>
+						<TextLine ID="line_9" HPOS="418" VPOS="152" WIDTH="37" HEIGHT="286">
+							<String ID="string_24" HPOS="418" VPOS="152" WIDTH="37" HEIGHT="241" WC="0.96" CONTENT="November"/><SP WIDTH="-37" VPOS="152" HPOS="455"/>
+							<String ID="string_25" HPOS="418" VPOS="413" WIDTH="34" HEIGHT="25" WC="0.96" CONTENT="5"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_7" HPOS="328" VPOS="90" WIDTH="69" HEIGHT="414">
+					<TextBlock ID="block_4" HPOS="328" VPOS="90" WIDTH="69" HEIGHT="414">
+						<TextLine ID="line_10" HPOS="328" VPOS="90" WIDTH="69" HEIGHT="414">
+							<String ID="string_26" HPOS="328" VPOS="90" WIDTH="69" HEIGHT="173" WC="0.95" CONTENT="Bob"/><SP WIDTH="-68" VPOS="90" HPOS="397"/>
+							<String ID="string_27" HPOS="329" VPOS="296" WIDTH="68" HEIGHT="208" WC="0.95" CONTENT="Dole"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_8" HPOS="278" VPOS="130" WIDTH="43" HEIGHT="334">
+					<TextBlock ID="block_5" HPOS="278" VPOS="130" WIDTH="43" HEIGHT="334">
+						<TextLine ID="line_11" HPOS="278" VPOS="130" WIDTH="43" HEIGHT="334">
+							<String ID="string_28" HPOS="278" VPOS="130" WIDTH="43" HEIGHT="74" WC="0.95" CONTENT="for"/><SP WIDTH="-42" VPOS="130" HPOS="321"/>
+							<String ID="string_29" HPOS="279" VPOS="226" WIDTH="41" HEIGHT="238" WC="0.95" CONTENT="President"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_9" HPOS="206" VPOS="107" WIDTH="37" HEIGHT="361"></GraphicalElement >
+				<ComposedBlock ID="cblock_10" HPOS="128" VPOS="106" WIDTH="48" HEIGHT="1478">
+					<TextBlock ID="block_6" HPOS="128" VPOS="106" WIDTH="48" HEIGHT="1478">
+						<TextLine ID="line_12" HPOS="128" VPOS="106" WIDTH="48" HEIGHT="1478">
+							<String ID="string_30" HPOS="133" VPOS="106" WIDTH="27" HEIGHT="63" WC="0.95" CONTENT="You"/><SP WIDTH="-27" VPOS="106" HPOS="160"/>
+							<String ID="string_31" HPOS="133" VPOS="183" WIDTH="28" HEIGHT="84" WC="0.95" CONTENT="can’t"/><SP WIDTH="-27" VPOS="183" HPOS="161"/>
+							<String ID="string_32" HPOS="134" VPOS="281" WIDTH="26" HEIGHT="106" WC="0.95" CONTENT="afford"/><SP WIDTH="-26" VPOS="281" HPOS="160"/>
+							<String ID="string_33" HPOS="134" VPOS="402" WIDTH="24" HEIGHT="34" WC="0.96" CONTENT="to"/><SP WIDTH="-30" VPOS="402" HPOS="158"/>
+							<String ID="string_34" HPOS="128" VPOS="451" WIDTH="30" HEIGHT="72" WC="0.96" CONTENT="stay"/><SP WIDTH="-24" VPOS="451" HPOS="158"/>
+							<String ID="string_35" HPOS="134" VPOS="536" WIDTH="26" HEIGHT="93" WC="0.96" CONTENT="home"/><SP WIDTH="-26" VPOS="536" HPOS="160"/>
+							<String ID="string_36" HPOS="134" VPOS="643" WIDTH="27" HEIGHT="65" WC="0.95" CONTENT="this"/><SP WIDTH="-27" VPOS="643" HPOS="161"/>
+							<String ID="string_37" HPOS="134" VPOS="723" WIDTH="42" HEIGHT="142" WC="0.96" CONTENT="election"/><SP WIDTH="-48" VPOS="723" HPOS="176"/>
+							<String ID="string_38" HPOS="128" VPOS="879" WIDTH="33" HEIGHT="65" WC="0.96" CONTENT="day."/><SP WIDTH="-27" VPOS="879" HPOS="161"/>
+							<String ID="string_39" HPOS="134" VPOS="959" WIDTH="27" HEIGHT="49" WC="0.96" CONTENT="On"/><SP WIDTH="-27" VPOS="959" HPOS="161"/>
+							<String ID="string_40" HPOS="134" VPOS="1022" WIDTH="27" HEIGHT="180" WC="0.96" CONTENT="November"/><SP WIDTH="-33" VPOS="1022" HPOS="161"/>
+							<String ID="string_41" HPOS="128" VPOS="1215" WIDTH="33" HEIGHT="29" WC="0.96" CONTENT="5,"/><SP WIDTH="-27" VPOS="1215" HPOS="161"/>
+							<String ID="string_42" HPOS="134" VPOS="1257" WIDTH="25" HEIGHT="77" WC="0.96" CONTENT="vote"/><SP WIDTH="-24" VPOS="1257" HPOS="159"/>
+							<String ID="string_43" HPOS="135" VPOS="1348" WIDTH="26" HEIGHT="52" WC="0.96" CONTENT="for"/><SP WIDTH="-27" VPOS="1348" HPOS="161"/>
+							<String ID="string_44" HPOS="134" VPOS="1413" WIDTH="27" HEIGHT="68" WC="0.96" CONTENT="Bob"/><SP WIDTH="-27" VPOS="1413" HPOS="161"/>
+							<String ID="string_45" HPOS="134" VPOS="1494" WIDTH="27" HEIGHT="90" WC="0.96" CONTENT="Dole."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_11" HPOS="109" VPOS="195" WIDTH="15" HEIGHT="198">
+					<TextBlock ID="block_7" HPOS="109" VPOS="195" WIDTH="15" HEIGHT="198">
+						<TextLine ID="line_13" HPOS="109" VPOS="195" WIDTH="15" HEIGHT="198">
+							<String ID="string_46" HPOS="112" VPOS="195" WIDTH="11" HEIGHT="30" WC="0.94" CONTENT="1996,"/><SP WIDTH="-11" VPOS="195" HPOS="123"/>
+							<String ID="string_47" HPOS="112" VPOS="234" WIDTH="12" HEIGHT="34" WC="0.93" CONTENT="John"/><SP WIDTH="-12" VPOS="234" HPOS="124"/>
+							<String ID="string_48" HPOS="112" VPOS="275" WIDTH="10" HEIGHT="45" WC="0.93" CONTENT="Grotta"/><SP WIDTH="-13" VPOS="275" HPOS="122"/>
+							<String ID="string_49" HPOS="109" VPOS="338" WIDTH="11" HEIGHT="55" WC="0.96" CONTENT="Company"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

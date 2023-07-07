@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_jhrt6_bt_input.PPM</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.1</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1190" HEIGHT="1480" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1190" HEIGHT="1480">
+				<Illustration ID="cblock_0" HPOS="0" VPOS="140" WIDTH="836" HEIGHT="982"></Illustration>
+				<Illustration ID="cblock_1" HPOS="0" VPOS="0" WIDTH="836" HEIGHT="140"></Illustration>
+				<ComposedBlock ID="cblock_2" HPOS="671" VPOS="37" WIDTH="397" HEIGHT="92">
+					<TextBlock ID="block_0" HPOS="671" VPOS="37" WIDTH="397" HEIGHT="92">
+						<TextLine ID="line_0" HPOS="674" VPOS="37" WIDTH="338" HEIGHT="34">
+							<String ID="string_0" HPOS="674" VPOS="38" WIDTH="93" HEIGHT="33" WC="0.96" CONTENT="Maps"/><SP WIDTH="16" VPOS="38" HPOS="767"/>
+							<String ID="string_1" HPOS="783" VPOS="38" WIDTH="61" HEIGHT="26" WC="0.95" CONTENT="and"/><SP WIDTH="19" VPOS="38" HPOS="844"/>
+							<String ID="string_2" HPOS="863" VPOS="37" WIDTH="68" HEIGHT="27" WC="0.96" CONTENT="Gov"/><SP WIDTH="16" VPOS="37" HPOS="931"/>
+							<String ID="string_3" HPOS="947" VPOS="38" WIDTH="65" HEIGHT="26" WC="0.96" CONTENT="Info"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="672" VPOS="79" WIDTH="230" HEIGHT="22">
+							<String ID="string_4" HPOS="672" VPOS="79" WIDTH="112" HEIGHT="22" WC="0.96" CONTENT="Campaign"/><SP WIDTH="12" VPOS="79" HPOS="784"/>
+							<String ID="string_5" HPOS="796" VPOS="79" WIDTH="106" HEIGHT="18" WC="0.96" CONTENT="Literature"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="671" VPOS="107" WIDTH="397" HEIGHT="22">
+							<String ID="string_6" HPOS="671" VPOS="107" WIDTH="150" HEIGHT="22" WC="0.96" CONTENT="CAMPAIGNS,"/><SP WIDTH="20" VPOS="107" HPOS="821"/>
+							<String ID="string_7" HPOS="841" VPOS="107" WIDTH="123" HEIGHT="21" WC="0.92" CONTENT="POLITICAL"/><SP WIDTH="11" VPOS="107" HPOS="964"/>
+							<String ID="string_8" HPOS="975" VPOS="117" WIDTH="5" HEIGHT="2" WC="0.92" CONTENT="-"/><SP WIDTH="14" VPOS="117" HPOS="980"/>
+							<String ID="string_9" HPOS="994" VPOS="107" WIDTH="57" HEIGHT="22" WC="0.93" CONTENT="1996"/><SP WIDTH="12" VPOS="107" HPOS="1051"/>
+							<String ID="string_10" HPOS="1063" VPOS="118" WIDTH="5" HEIGHT="2" WC="0.93" CONTENT="-"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="682" VPOS="124" WIDTH="426" HEIGHT="6"></GraphicalElement >
+				<ComposedBlock ID="cblock_4" HPOS="673" VPOS="136" WIDTH="375" HEIGHT="22">
+					<TextBlock ID="block_1" HPOS="673" VPOS="136" WIDTH="375" HEIGHT="22">
+						<TextLine ID="line_3" HPOS="673" VPOS="136" WIDTH="375" HEIGHT="22">
+							<String ID="string_11" HPOS="673" VPOS="137" WIDTH="131" HEIGHT="21" WC="0.93" CONTENT="PRESIDENT"/><SP WIDTH="11" VPOS="137" HPOS="804"/>
+							<String ID="string_12" HPOS="815" VPOS="147" WIDTH="5" HEIGHT="1" WC="0.90" CONTENT="-"/><SP WIDTH="11" VPOS="147" HPOS="820"/>
+							<String ID="string_13" HPOS="831" VPOS="136" WIDTH="61" HEIGHT="21" WC="0.93" CONTENT="DOLE"/><SP WIDTH="11" VPOS="136" HPOS="892"/>
+							<String ID="string_14" HPOS="903" VPOS="146" WIDTH="5" HEIGHT="2" WC="0.93" CONTENT="-"/><SP WIDTH="11" VPOS="146" HPOS="908"/>
+							<String ID="string_15" HPOS="919" VPOS="136" WIDTH="129" HEIGHT="22" WC="0.78" CONTENT="GENERAL"/><SP WIDTH="-11" VPOS="136" HPOS="1048"/>
+							<String ID="string_16" HPOS="1037" VPOS="132" WIDTH="15" HEIGHT="33" WC="0.78" CONTENT="_"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_5" HPOS="671" VPOS="154" WIDTH="439" HEIGHT="4"></GraphicalElement >
+				<Illustration ID="cblock_6" HPOS="912" VPOS="1154" WIDTH="211" HEIGHT="285"></Illustration>
+				<ComposedBlock ID="cblock_7" HPOS="1122" VPOS="12" WIDTH="32" HEIGHT="184">
+					<TextBlock ID="block_2" HPOS="1122" VPOS="12" WIDTH="32" HEIGHT="184">
+						<TextLine ID="line_4" HPOS="1122" VPOS="12" WIDTH="32" HEIGHT="184">
+							<String ID="string_17" HPOS="1122" VPOS="12" WIDTH="32" HEIGHT="184" WC="0.0" CONTENT="SAUSSaY"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
