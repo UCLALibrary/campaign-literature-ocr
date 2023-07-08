@@ -4,7 +4,7 @@ import argparse
 import csv
 from glob import glob
 from os.path import isdir, basename
-from itertools import groupby
+from itertools import groupby, zip_longest
 import spacy
 
 
@@ -59,19 +59,29 @@ def parse_ner(files: list):
             }
 
             entity_maps.setdefault(file_root, {})
-            entity_maps[file_root] = entity_maps[file_root] | entities
+            temp_dict = entity_maps[file_root]
 
-            write_results(entity_maps)
+            for k, v in entities.items():
+                if k in temp_dict.keys():
+                    temp_dict[k] += v
+                else:
+                    temp_dict[k] = v
+
+            entity_maps[file_root] = temp_dict
+
+    write_results(entity_maps)
 
 
 def write_results(entity_maps: dict):
     for file_root in entity_maps.keys():
         with open(f"./{file_root}.csv", "w") as ner_file:
             ner_dict = entity_maps[file_root]
-            headers = ner_dict.keys()
-            csvwriter = csv.DictWriter(ner_file, fieldnames=headers, delimiter="\t")
+            print(ner_dict)
+            csvwriter = csv.DictWriter(
+                ner_file, fieldnames=ner_dict.keys(), delimiter="\t"
+            )
             csvwriter.writeheader()
-            csvwriter.writerow(ner_dict)
+            csvwriter.writerows(zip_longest(*ner_dict.values()))
 
 
 if __name__ == "__main__":
