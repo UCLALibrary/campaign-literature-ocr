@@ -4,3 +4,4 @@ pytesseract == 0.3.10
 nltk == 3.8.1
 spacy == 3.5.4
 openai == 0.27.8
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
