@@ -20,15 +20,16 @@ def main():
         for f in args.file:
             files.append(f)
 
-    parse_ner(files)
+    entity_dicts = parse_ner(files)
+    write_entities(entity_dicts, args.output_dir)
 
 
 def parse_args() -> dict:
     parser = argparse.ArgumentParser(
         description="A script to scan text and output NER information"
     )
-    parser.add_argument("-i", "--input_dir", type=dir_path)
-    parser.add_argument("-o", "--output_dir", type=dir_path, nargs="?", const=".")
+    parser.add_argument("-i", "--input_dir", type=dir_path, nargs="?")
+    parser.add_argument("-o", "--output_dir", type=dir_path, nargs="?", default=".")
     parser.add_argument("-f", "--file", nargs="+")
 
     return parser.parse_args()
@@ -41,10 +42,10 @@ def dir_path(path: str) -> str:
         raise argparse.ArgumentTypeError(f"{path} is not a valid directory")
 
 
-def parse_ner(files: list):
+def parse_ner(files: list) -> dict:
     nlp = spacy.load("en_core_web_sm")
 
-    entity_maps = {}
+    entity_dicts = {}
 
     for file in files:
         with open(file) as f:
@@ -58,8 +59,8 @@ def parse_ner(files: list):
                 )
             }
 
-            entity_maps.setdefault(file_root, {})
-            temp_dict = entity_maps[file_root]
+            entity_dicts.setdefault(file_root, {})
+            temp_dict = entity_dicts[file_root]
 
             for k, v in entities.items():
                 if k in temp_dict.keys():
@@ -67,21 +68,31 @@ def parse_ner(files: list):
                 else:
                     temp_dict[k] = v
 
-            entity_maps[file_root] = temp_dict
+            entity_dicts[file_root] = clean_data(temp_dict)
 
-    write_results(entity_maps)
+    return entity_dicts
 
 
-def write_results(entity_maps: dict):
-    for file_root in entity_maps.keys():
-        with open(f"./{file_root}.csv", "w") as ner_file:
-            ner_dict = entity_maps[file_root]
-            print(ner_dict)
-            csvwriter = csv.DictWriter(
-                ner_file, fieldnames=ner_dict.keys(), delimiter="\t"
-            )
-            csvwriter.writeheader()
-            csvwriter.writerows(zip_longest(*ner_dict.values()))
+def clean_data(entity_dict: dict) -> dict:
+    e_to_keep = ["PERSON", "ORG", "GPE", "NORP"]
+    entity_dict = {k: v for k, v in entity_dict.items() if k in e_to_keep}
+
+    for k in entity_dict.keys():
+        entity_dict[k] = [" ".join(val.splitlines()) for val in entity_dict[k]]
+    return entity_dict
+
+
+def write_entities(entity_dicts: dict, output_dir: str):
+    for file_root in entity_dicts.keys():
+        with open(f"{output_dir}/{file_root}.tsv", "w") as ner_file:
+            ner_dict = entity_dicts[file_root]
+            output(ner_file, ner_dict)
+
+
+def output(output_loc: str, output_dict: dict):
+    csvwriter = csv.writer(output_loc, delimiter="\t")
+    csvwriter.writerow(output_dict.keys())
+    csvwriter.writerows(zip_longest(*output_dict.values()))
 
 
 if __name__ == "__main__":
