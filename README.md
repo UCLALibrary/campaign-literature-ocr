@@ -32,11 +32,11 @@ See `requirements.txt` for specific versions used, and links to documentation fo
 
    ```$ cd campaign-literature-ocr```
 
-3. Build using docker-compose.
+3. Build using docker-compose. The file `.camplit_secrets.env` needs to exist for the build to work. Create that file, e.g. `touch .complit_secrets.env` for the build to build. 
 
    ```$ docker-compose build```
 
-4. Get a copy of `.camplit_secrets.env` from a colleage and place it in the current directory.
+4. Get a copy of `.camplit_secrets.env` from a colleague and place it in the current directory.
 
 5. Bring the system up, with containers running in the background.
 
