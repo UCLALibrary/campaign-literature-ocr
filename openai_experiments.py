@@ -43,7 +43,7 @@ def get_prompt(ocr_file: str) -> str:
         "Use 'sentence case' for the 'Title' field. "
         "Return only Dublin Core fields, correctly formatted as JSON. "
         f"Additional context: the name of the source document is {ocr_file}.\n"
-        f"Here is the document: {ocr_text}"
+        f"The text from the document is enclosed in three single quotes below: '''{ocr_text}'''"
     )
     return prompt
 
