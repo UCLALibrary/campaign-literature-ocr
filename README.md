@@ -1,3 +1,5 @@
+This project was an experiment.  Repository archived 2026-05-21 akohler.
+
 # campaign-literature-ocr
 Experimental project to use OCR and AI/ML on UCLA Campaign Literature Collection
 
